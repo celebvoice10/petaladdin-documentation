@@ -6,6 +6,8 @@ title: Purchase Details Screen
 
 The purchase details page shows the full purchase record, status actions, item totals, and stock receiving workflow.
 
+![Purchase details screen](/img/screenshots/purchase-details-screen.jpg)
+
 ## What the page shows
 
 The screen can include:

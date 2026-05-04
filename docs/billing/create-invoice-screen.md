@@ -6,6 +6,16 @@ title: Create Invoice Screen
 
 The `Create Invoice` form is used to bill a registered pet parent, pet, and optional consultation for the active clinic.
 
+![Create invoice screen with callouts](/img/screenshots/create-invoice-screen-annotated.jpg)
+
+Quick guide:
+
+- `1` shows the invoice details panel
+- `2` starts the pet parent lookup flow
+- `3` is the product or service search box
+- `4` adds a custom line item
+- `5` is the save action after totals are reviewed
+
 ## Main sections
 
 The form is split into:

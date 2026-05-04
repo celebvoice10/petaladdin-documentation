@@ -6,6 +6,8 @@ title: Consultations List Screen
 
 The `Consultations` list screen is the main clinical register for the active clinic.
 
+![Consultations list screen](/img/screenshots/consultations-list-screen.jpg)
+
 ## What users can do here
 
 - review consultation records

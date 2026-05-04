@@ -6,6 +6,8 @@ title: Create Purchase Screen
 
 The `Add Purchase` form is used to record a supplier purchase for the active clinic.
 
+![Create purchase screen](/img/screenshots/create-purchase-screen.jpg)
+
 ## Main sections
 
 The purchase form is split into:

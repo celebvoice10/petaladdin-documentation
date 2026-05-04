@@ -6,6 +6,15 @@ title: Create Appointment Screen
 
 The `Schedule` form is used to create a new appointment for a pet parent and pet.
 
+![Create appointment screen with callouts](/img/screenshots/create-appointment-screen-annotated.jpg)
+
+Quick guide:
+
+- `1` is the schedule slot section for type, date, and timing
+- `2` is the patient assignment area
+- `3` is the doctor or vet assignment field
+- `4` is the workflow notes section
+
 ## Main sections
 
 The form is split into:

@@ -6,6 +6,8 @@ title: Create Stock Adjustment Screen
 
 The `Create Stock Adjustment` form is used to record stock-in or stock-out corrections for the current clinic.
 
+![Create stock adjustment screen](/img/screenshots/create-stock-adjustment-screen.jpg)
+
 ## Main sections
 
 The form is split into:

@@ -6,6 +6,8 @@ title: Create Product Screen
 
 The `Add Product` form is used to create a new product, medicine, service, or stock item for the current clinic.
 
+![Create product screen](/img/screenshots/create-product-screen.jpg)
+
 ## What the form includes
 
 - clinic context from the header

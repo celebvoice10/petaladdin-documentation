@@ -6,6 +6,15 @@ title: POS Checkout Workflow
 
 The `Point of Sale` screen is used for fast checkout. It supports registered customers, walk-in or OTC sales, product search, promotions, split payments, and immediate invoice creation.
 
+![POS checkout workflow screen with callouts](/img/screenshots/pos-checkout-workflow-screen-annotated.jpg)
+
+Quick guide:
+
+- `1` selects the customer mode
+- `2` is the main product search entry point
+- `3` filters products by category
+- `4` opens POS shortcuts and keyboard help
+
 ## What the POS supports
 
 - registered customer billing

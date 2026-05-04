@@ -6,6 +6,15 @@ title: Appointments List Screen
 
 The `Appointments` screen is Petaladdin's main calendar and scheduling board.
 
+![Appointments list screen with callouts](/img/screenshots/appointments-list-screen-annotated.jpg)
+
+Quick guide:
+
+- `1` opens appointment setup and scheduling actions
+- `2` controls view, date, and lane layout
+- `3` opens advanced filters and reset
+- `4` adds an appointment directly from a day column
+
 ## What users can do here
 
 - switch between `Day`, `Week`, and `Month` views

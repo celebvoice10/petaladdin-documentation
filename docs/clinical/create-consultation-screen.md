@@ -6,6 +6,17 @@ title: Create Consultation Screen
 
 The `Add Consultation` form is a multi-step clinical workspace used to record SOAP notes, vitals, and prescriptions.
 
+![Create consultation screen with callouts](/img/screenshots/create-consultation-screen-annotated.jpg)
+
+Quick guide:
+
+- `1` opens the consultation step
+- `2` opens the objective step for vitals and exam findings
+- `3` opens the subjective and assessment step
+- `4` opens the plan step for medication and follow-up
+- `5` is the pet parent search inside visit details
+- `6` is the next-step action in the footer
+
 ## Main steps
 
 Depending on permissions, the form can include:

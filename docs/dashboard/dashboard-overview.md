@@ -6,6 +6,8 @@ title: Dashboard Overview
 
 The dashboard helps clinic teams understand what needs attention right now. It brings together appointments, consultations, preventive care, billing, inventory, and admin metrics in one place.
 
+![Dashboard overview screen](/img/screenshots/dashboard-overview-screen.jpg)
+
 ## Who uses this page
 
 - clinic administrators

@@ -6,6 +6,8 @@ title: Product Details Screen
 
 The product details page is the best place to review a single item's stock, pricing, tax profiles, and recent movement history.
 
+![Product details screen](/img/screenshots/product-details-screen.jpg)
+
 ## What the page shows
 
 The screen can include:
