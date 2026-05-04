@@ -10,19 +10,19 @@ type FeatureItem = {
 
 const featureList: FeatureItem[] = [
   {
-    title: 'Quick onboarding',
+    title: 'Role-based guidance',
     description:
-      'Guide reception teams, doctors, and administrators through first login, clinic setup, and staff access.',
+      'Help different teams find the right workflow quickly, from reception and doctors to billing and administrators.',
   },
   {
-    title: 'Daily workflow help',
+    title: 'Day-to-day operations',
     description:
-      'Document appointment handling, patient records, billing, and common front-desk tasks in one place.',
+      'Cover appointments, patient records, consultations, stock handling, and billing in one organized help center.',
   },
   {
-    title: 'Easy publishing',
+    title: 'Support-ready content',
     description:
-      'Build the docs as a static site and publish them to GitHub Pages without running the Laravel app.',
+      'Give clinic teams clear step-by-step instructions they can use during live operations, training, and troubleshooting.',
   },
 ];
 
@@ -44,7 +44,7 @@ export default function HomepageFeatures(): ReactNode {
       <div className="container">
         <div className={styles.sectionHeading}>
           <p className={styles.sectionLabel}>What this site covers</p>
-          <Heading as="h2">Documentation built for clinic teams</Heading>
+          <Heading as="h2">A help center built around real clinic workflows</Heading>
         </div>
         <div className="row">
           {featureList.map((props, idx) => (

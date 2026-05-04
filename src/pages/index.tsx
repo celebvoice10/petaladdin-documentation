@@ -20,14 +20,17 @@ function HomepageHeader() {
             {siteConfig.title}
           </Heading>
           <p className={styles.heroSubtitle}>{siteConfig.tagline}</p>
+          <p className={styles.heroMeta}>
+            Practical help for reception teams, doctors, nurses, billing staff, and clinic administrators.
+          </p>
           <div className={styles.buttons}>
             <Link className="button button--primary button--lg" to="/docs/intro">
               Open the help center
             </Link>
             <Link
               className="button button--secondary button--lg"
-              to="/docs/getting-started/accessing-petaladdin">
-              Start with setup
+              to="/docs/workflows/front-desk-workflow">
+              View front desk workflow
             </Link>
           </div>
         </div>

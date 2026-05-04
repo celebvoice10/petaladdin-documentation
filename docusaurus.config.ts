@@ -2,7 +2,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
-const organizationName = process.env.GITHUB_OWNER ?? 'your-github-org';
+const organizationName = process.env.GITHUB_OWNER ?? 'celebvoice10';
 const projectName = process.env.GITHUB_REPO ?? 'petaladdin-documentation';
 const useCustomDomain = process.env.DOCS_USE_CUSTOM_DOMAIN === 'true';
 
@@ -73,7 +73,7 @@ const config: Config = {
         },
         {
           href: `https://github.com/${organizationName}/${projectName}`,
-          label: 'GitHub',
+          label: 'Repository',
           position: 'right',
         },
       ],
@@ -89,8 +89,8 @@ const config: Config = {
               to: '/docs/intro',
             },
             {
-              label: 'Appointments',
-              to: '/docs/appointments/managing-appointments',
+              label: 'Front Desk Workflow',
+              to: '/docs/workflows/front-desk-workflow',
             },
           ],
         },
@@ -102,8 +102,8 @@ const config: Config = {
               to: '/docs/billing/invoices-payments',
             },
             {
-              label: 'Reports',
-              to: '/docs/reports/reports-overview',
+              label: 'Inventory',
+              to: '/docs/inventory/managing-medicines-stock',
             },
           ],
         },
@@ -113,6 +113,10 @@ const config: Config = {
             {
               label: 'Troubleshooting',
               to: '/docs/troubleshooting/common-issues',
+            },
+            {
+              label: 'Reports',
+              to: '/docs/reports/daily-financial-reports',
             },
             {
               label: 'GitHub Repository',
