@@ -6,7 +6,15 @@ title: Consultations List Screen
 
 The `Consultations` list screen is the main clinical register for the active clinic.
 
-![Consultations list screen](/img/screenshots/consultations-list-screen.jpg)
+![Consultations list screen](/img/screenshots/consultations-list-screen-annotated.jpg)
+
+Quick guide:
+
+- `1` opens the prescription template library used during consultations.
+- `2` starts a new consultation record manually.
+- `3` shows the consultation date and time for each clinical entry.
+- `4` identifies the pet parent linked to the consultation.
+- `5` opens row-level actions for the selected consultation.
 
 ## What users can do here
 

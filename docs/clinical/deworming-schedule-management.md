@@ -83,6 +83,6 @@ Use previous history as your reference point before creating new future dates. A
 
 ## Related pages
 
-- [Pet Profile Workspace](../patient-records/pet-profile-workspace.md)
+- [Pet Profile](../patient-records/pet-profile-workspace.md)
 - [Vaccination Schedule Management](./vaccination-schedule-management.md)
 - [Dashboard Overview](../dashboard/dashboard-overview.md)

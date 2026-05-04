@@ -6,7 +6,15 @@ title: Create Product Screen
 
 The `Add Product` form is used to create a new product, medicine, service, or stock item for the current clinic.
 
-![Create product screen](/img/screenshots/create-product-screen.jpg)
+![Create product screen](/img/screenshots/create-product-screen-annotated.jpg)
+
+Quick guide:
+
+- `1` confirms which clinic the product will belong to.
+- `2` lets you create a category without leaving the product form.
+- `3` is the main product name field used across billing and inventory screens.
+- `4` groups the identity and pricing fields that staff usually complete together.
+- `5` sets the opening stock quantity when the product is first created.
 
 ## What the form includes
 

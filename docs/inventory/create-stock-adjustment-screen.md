@@ -6,7 +6,15 @@ title: Create Stock Adjustment Screen
 
 The `Create Stock Adjustment` form is used to record stock-in or stock-out corrections for the current clinic.
 
-![Create stock adjustment screen](/img/screenshots/create-stock-adjustment-screen.jpg)
+![Create stock adjustment screen](/img/screenshots/create-stock-adjustment-screen-annotated.jpg)
+
+Quick guide:
+
+- `1` is the adjustment context area for type, reason, date, and notes.
+- `2` is the item workspace where products are added to the adjustment.
+- `3` captures the adjustment date and helps anchor the stock movement timeline.
+- `4` searches for the product that needs a stock correction.
+- `5` saves the completed stock adjustment record.
 
 ## Main sections
 

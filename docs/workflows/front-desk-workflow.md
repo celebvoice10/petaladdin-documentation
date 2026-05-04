@@ -6,6 +6,24 @@ title: Front Desk Workflow
 
 This guide brings together the most common tasks handled by reception and front-desk staff during a normal clinic day.
 
+![Appointments list screen with callouts](/img/screenshots/appointments-list-screen-annotated.jpg)
+
+Quick guide:
+
+- `1` filters the schedule with the view and search tools before the clinic gets busy.
+- `2` starts a new appointment when a walk-in or call needs booking.
+- `3` shows the visit date and time at a glance.
+- `4` confirms the pet parent linked to the visit.
+- `5` opens the row action to continue into the appointment record.
+
+## Daily route
+
+1. Open the appointments list and review today's schedule.
+2. Confirm owner and pet details before patients arrive.
+3. Check patients in and hand them off to the doctor or nurse.
+4. Support check-out, invoice handoff, and payment follow-up.
+5. Close the day by reviewing incomplete visits and unresolved balances.
+
 ## Before opening
 
 - review today's appointment schedule
@@ -24,11 +42,11 @@ Use [Patient Check-In and Check-Out](../appointments/check-in-check-out.md) to m
 
 ### 3. Support record accuracy
 
-Use [Patient Profiles](../patient-records/patient-profiles.md) when you need to confirm client details or correct duplicate information.
+Use [Managing Pet Parents](../pet-parents/managing-pet-parents.md), [Managing Pets](../pets/managing-pets.md), and [Pet Profile](../patient-records/pet-profile-workspace.md) when you need to confirm owner details, pet details, or visit history.
 
 ### 4. Coordinate billing handoff
 
-Use [Invoices and Payments](../billing/invoices-payments.md) to support check-out and payment tracking.
+Use [Invoices and Payments](../billing/invoices-payments.md) and [POS Checkout Workflow](../billing/pos-checkout-workflow.md) to support check-out and payment tracking.
 
 ## End-of-day routine
 
@@ -45,3 +63,11 @@ Tell an administrator or supervisor when:
 - patient information appears duplicated or missing
 - billing totals do not match the visit details
 - the calendar shows repeated scheduling problems
+
+## Related pages
+
+- [Managing Appointments](../appointments/managing-appointments.md)
+- [Patient Check-In and Check-Out](../appointments/check-in-check-out.md)
+- [Managing Pet Parents](../pet-parents/managing-pet-parents.md)
+- [Managing Pets](../pets/managing-pets.md)
+- [Billing Workflow](./billing-workflow.md)

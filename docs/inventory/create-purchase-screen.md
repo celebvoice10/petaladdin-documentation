@@ -6,7 +6,15 @@ title: Create Purchase Screen
 
 The `Add Purchase` form is used to record a supplier purchase for the active clinic.
 
-![Create purchase screen](/img/screenshots/create-purchase-screen.jpg)
+![Create purchase screen](/img/screenshots/create-purchase-screen-annotated.jpg)
+
+Quick guide:
+
+- `1` holds the supplier, invoice, status, and note fields for the purchase header.
+- `2` sets the purchase date for the supplier bill being recorded.
+- `3` opens the products section where purchased items are added.
+- `4` is the search area used to find products by name or SKU.
+- `5` saves the purchase after the product rows and costs are complete.
 
 ## Main sections
 

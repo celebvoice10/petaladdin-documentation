@@ -1,8 +1,8 @@
 ---
-title: Staff User Management
+title: Users
 ---
 
-# Staff User Management
+# Users
 
 The `Users` page is where clinic administrators add staff accounts, assign them to a clinic, and control their working access.
 

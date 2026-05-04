@@ -6,7 +6,15 @@ title: Product Details Screen
 
 The product details page is the best place to review a single item's stock, pricing, tax profiles, and recent movement history.
 
-![Product details screen](/img/screenshots/product-details-screen.jpg)
+![Product details screen](/img/screenshots/product-details-screen-annotated.jpg)
+
+Quick guide:
+
+- `1` shows the core product identity, category, behavior flags, and expiry information.
+- `2` returns to the product list after reviewing the record.
+- `3` summarizes current stock and pricing at a glance.
+- `4` shows the sales and purchase tax profiles linked to the product.
+- `5` lists available batches so staff can check lot-level stock before billing or adjustments.
 
 ## What the page shows
 

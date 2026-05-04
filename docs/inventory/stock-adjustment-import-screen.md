@@ -6,7 +6,15 @@ title: Stock Adjustment Import Screen
 
 The `Import Stock Adjustments` screen is used to upload stock movement files for the active clinic.
 
-![Stock adjustment import screen](/img/screenshots/stock-adjustment-import-screen.jpg)
+![Stock adjustment import screen](/img/screenshots/stock-adjustment-import-screen-annotated.jpg)
+
+Quick guide:
+
+- `1` provides shortcut actions for exporting batches, downloading the reference file, or returning to adjustments.
+- `2` is the upload area where staff choose the import file for preview.
+- `3` starts the preview step before real stock movements are created.
+- `4` explains the template rules and supported import formats.
+- `5` shows recent import history for auditing and troubleshooting.
 
 ## What users can do here
 

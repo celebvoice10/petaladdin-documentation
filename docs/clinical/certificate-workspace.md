@@ -1,8 +1,8 @@
 ---
-title: Certificate Workspace
+title: Certificates
 ---
 
-# Certificate Workspace
+# Certificates
 
 The `Certificates` workspace helps clinics prepare printable certificates for a selected pet in the active clinic.
 

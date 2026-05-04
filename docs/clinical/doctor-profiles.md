@@ -43,5 +43,5 @@ Keep doctor registration and contact details current. Accurate doctor records ma
 ## Related pages
 
 - [Consultations and Treatment Notes](./consultations-treatment-notes.md)
-- [Certificate Workspace](./certificate-workspace.md)
+- [Certificates](./certificate-workspace.md)
 - [Users and Roles](../admin/users-roles.md)

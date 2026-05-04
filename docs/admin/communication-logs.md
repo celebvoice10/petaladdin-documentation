@@ -1,8 +1,8 @@
 ---
-title: Communication Logs
+title: Communication
 ---
 
-# Communication Logs
+# Communication
 
 The `Communication` page helps clinic teams review reminders, payment notifications, and delivery outcomes.
 

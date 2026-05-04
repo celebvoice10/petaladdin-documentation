@@ -1,8 +1,8 @@
 ---
-title: Subscription Management
+title: Subscription
 ---
 
-# Subscription Management
+# Subscription
 
 The `Subscription` page helps clinic administrators review the current package, request renewals or upgrades, and track approval status.
 

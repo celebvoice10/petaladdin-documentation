@@ -6,7 +6,15 @@ title: Create Pet Screen
 
 The `Add Pet` form is used to register a new pet under an existing pet parent.
 
-![Create pet screen](/img/screenshots/create-pet-screen.jpg)
+![Create pet screen](/img/screenshots/create-pet-screen-annotated.jpg)
+
+Quick guide:
+
+- `1` links the pet to an existing pet parent in the clinic.
+- `2` sets whether the pet record is active and available for new visits.
+- `3` captures the pet name shown throughout clinical and billing workflows.
+- `4` selects the species, which then helps limit the breed choices to relevant options.
+- `5` captures the age field when the clinic prefers to enter age directly instead of date of birth.
 
 ## What the form includes
 

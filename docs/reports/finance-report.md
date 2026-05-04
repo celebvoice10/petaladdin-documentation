@@ -1,8 +1,8 @@
 ---
-title: Finance Report
+title: Billing Report
 ---
 
-# Finance Report
+# Billing Report
 
 The `Billing Report` screen gives clinic admins a wider financial view than the daily summary by combining invoices, collections, receivables, discounts, tax, refunds, and purchase spend.
 

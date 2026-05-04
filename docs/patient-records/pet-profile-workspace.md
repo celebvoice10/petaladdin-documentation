@@ -1,8 +1,8 @@
 ---
-title: Pet Profile Workspace
+title: Pet Profile
 ---
 
-# Pet Profile Workspace
+# Pet Profile
 
 The `Pet Profile` page is a combined history workspace. It lets users select a pet parent and pet, then review clinical and billing history in one place.
 

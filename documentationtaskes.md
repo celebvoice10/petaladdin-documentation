@@ -83,8 +83,8 @@ Why this order:
 ### In Progress
 
 - [ ] Align docs more closely with real screen names, field labels, and buttons from each module
-- [ ] Add screenshots and annotations for key workflows
-- [ ] Add role-based task maps for receptionist, doctor, billing staff, and admin
+- [x] Add screenshots and annotations for key workflows
+- [x] Add role-based task maps for receptionist, doctor, billing staff, and admin
 
 ### Not Started
 
@@ -105,6 +105,9 @@ These should be completed first because they match the main clinic flow.
 
 - [x] Appointments workflow
 - [x] Front desk workflow
+- [x] Doctor workflow
+- [x] Billing workflow
+- [x] Clinic admin workflow
 - [x] Consultation notes workflow
 - [x] Billing and payments basics
 - [x] Inventory stock basics
@@ -300,9 +303,16 @@ Each page should include:
 
 When screenshots are added:
 
-- [ ] use one screenshot style consistently
-- [ ] annotate important buttons and sections
+- [x] use one screenshot style consistently
+- [x] annotate important buttons and sections
 - [ ] avoid outdated screenshots after UI changes
+
+## Live Review Notes
+
+- [x] Reviewed the live clinic UI with Browser Use on `http://laravel-app.test`
+- [x] Confirmed sidebar labels such as `Pet Profile`, `Certificates`, `Inventory`, and `Billing`
+- [x] Updated documentation labels to better match the live navigation where mismatches were found
+- [x] Renamed docs titles to match live module labels such as `Users`, `Subscription`, `Communication`, and `Billing Report`
 
 ## Notes From Current App Review
 
@@ -429,3 +439,6 @@ Observed important subflows from routes and views:
 - [x] Write `Edit Pet Screen`
 - [x] Write `Prescription Templates Screen`
 - [x] Write `Stock Adjustment Import Screen`
+- [x] Write `Doctor Workflow`
+- [x] Write `Billing Workflow`
+- [x] Write `Clinic Admin Workflow`

@@ -31,4 +31,4 @@ Review species, breed, sex, and age carefully before saving. These fields affect
 ## Related pages
 
 - [Create Pet Screen](./create-pet-screen.md)
-- [Pet Profile Workspace](../patient-records/pet-profile-workspace.md)
+- [Pet Profile](../patient-records/pet-profile-workspace.md)

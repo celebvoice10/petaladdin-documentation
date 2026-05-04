@@ -6,7 +6,14 @@ title: Purchase Details Screen
 
 The purchase details page shows the full purchase record, status actions, item totals, and stock receiving workflow.
 
-![Purchase details screen](/img/screenshots/purchase-details-screen.jpg)
+![Purchase details screen](/img/screenshots/purchase-details-screen-annotated.jpg)
+
+Quick guide:
+
+- `1` shows the purchase summary, including supplier, invoice number, date, and current status.
+- `2` lists the purchased products with received quantity, cost, tax, and total values.
+- `3` summarizes the financial totals for the full purchase record.
+- `4` returns to the purchase list after review or stock receiving work.
 
 ## What the page shows
 

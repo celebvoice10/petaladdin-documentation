@@ -89,6 +89,6 @@ Always verify the pet and consultation context before saving. Vaccination record
 
 ## Related pages
 
-- [Pet Profile Workspace](../patient-records/pet-profile-workspace.md)
+- [Pet Profile](../patient-records/pet-profile-workspace.md)
 - [Consultations and Treatment Notes](./consultations-treatment-notes.md)
 - [Deworming Schedule Management](./deworming-schedule-management.md)

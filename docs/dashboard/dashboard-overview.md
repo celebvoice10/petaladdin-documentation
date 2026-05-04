@@ -6,7 +6,14 @@ title: Dashboard Overview
 
 The dashboard helps clinic teams understand what needs attention right now. It brings together appointments, consultations, preventive care, billing, inventory, and admin metrics in one place.
 
-![Dashboard overview screen](/img/screenshots/dashboard-overview-screen.jpg)
+![Dashboard overview screen](/img/screenshots/dashboard-overview-screen-annotated.jpg)
+
+Quick guide:
+
+- `1` switches the dashboard focus between all modules and specific operational areas.
+- `2` highlights the appointments summary card for front-desk workload.
+- `3` shows preventive care due counts so teams can plan vaccinations and deworming follow-ups.
+- `4` opens a quick action so staff can jump directly into common tasks.
 
 ## Who uses this page
 

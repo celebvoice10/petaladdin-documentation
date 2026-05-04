@@ -21,7 +21,9 @@ Use this help center to learn the core workflows your team performs every day.
 - New to the platform: begin with [Accessing Petaladdin](./getting-started/accessing-petaladdin.md)
 - Setting up a clinic account: continue with [Clinic Setup](./getting-started/clinic-setup.md)
 - Running the reception desk: review [Front Desk Workflow](./workflows/front-desk-workflow.md)
-- Recording doctor activity: continue with [Consultations and Treatment Notes](./clinical/consultations-treatment-notes.md)
+- Recording doctor activity: review [Doctor Workflow](./workflows/doctor-workflow.md)
+- Managing billing and collections: start with [Billing Workflow](./workflows/billing-workflow.md)
+- Overseeing the clinic: continue with [Clinic Admin Workflow](./workflows/clinic-admin-workflow.md)
 
 ## What Petaladdin covers
 

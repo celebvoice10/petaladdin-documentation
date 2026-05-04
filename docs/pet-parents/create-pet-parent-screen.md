@@ -6,7 +6,15 @@ title: Create Pet Parent Screen
 
 The `Add Pet Parent` form is used to register a new pet owner in Petaladdin.
 
-![Create pet parent screen](/img/screenshots/create-pet-parent-screen.jpg)
+![Create pet parent screen](/img/screenshots/create-pet-parent-screen-annotated.jpg)
+
+Quick guide:
+
+- `1` sets whether the pet parent record is active and available for clinic workflows.
+- `2` captures the owner name used across appointments, invoices, and pet profiles.
+- `3` records the main contact phone number for reminders and follow-ups.
+- `4` records the email address used for login creation when the clinic enables owner access.
+- `5` saves the pet parent record once the registration details are complete.
 
 ## What the form includes
 

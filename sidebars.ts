@@ -18,6 +18,16 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
+      label: 'Role Guides',
+      items: [
+        'workflows/front-desk-workflow',
+        'workflows/doctor-workflow',
+        'workflows/billing-workflow',
+        'workflows/clinic-admin-workflow',
+      ],
+    },
+    {
+      type: 'category',
       label: 'Front Desk',
       items: [
         'pet-parents/managing-pet-parents',
@@ -33,7 +43,6 @@ const sidebars: SidebarsConfig = {
         'appointments/edit-appointment-screen',
         'appointments/appointment-details-screen',
         'appointments/appointment-setup-screen',
-        'workflows/front-desk-workflow',
       ],
     },
     {

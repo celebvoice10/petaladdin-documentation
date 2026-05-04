@@ -17,6 +17,10 @@ Typical tasks include:
 - updating owner contact details
 - helping with invoice handoff and payment confirmation
 
+Guide:
+
+- [Front Desk Workflow](../workflows/front-desk-workflow.md)
+
 ### Doctors
 
 Typical tasks include:
@@ -25,6 +29,10 @@ Typical tasks include:
 - recording consultation notes
 - updating treatment details
 - checking visit outcomes before check-out
+
+Guide:
+
+- [Doctor Workflow](../workflows/doctor-workflow.md)
 
 ### Nurses and support staff
 
@@ -43,6 +51,10 @@ Typical tasks include:
 - checking outstanding balances
 - monitoring daily reports
 
+Guide:
+
+- [Billing Workflow](../workflows/billing-workflow.md)
+
 ### Administrators
 
 Typical tasks include:
@@ -51,6 +63,10 @@ Typical tasks include:
 - user access and permissions
 - support and troubleshooting
 - policy review and process oversight
+
+Guide:
+
+- [Clinic Admin Workflow](../workflows/clinic-admin-workflow.md)
 
 ## Best practice
 
