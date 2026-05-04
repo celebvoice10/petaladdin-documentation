@@ -4,7 +4,16 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const organizationName = process.env.GITHUB_OWNER ?? 'celebvoice10';
 const projectName = process.env.GITHUB_REPO ?? 'petaladdin-documentation';
-const useCustomDomain = process.env.DOCS_USE_CUSTOM_DOMAIN === 'true';
+const defaultSiteUrl = 'https://docs.petaladdin.com';
+const siteUrl =
+  process.env.DOCS_URL ||
+  process.env.URL ||
+  defaultSiteUrl;
+const isCustomDomain = siteUrl.includes('docs.petaladdin.com');
+const baseUrl =
+  process.env.DOCS_BASE_URL ||
+  process.env.BASE_URL ||
+  (isCustomDomain ? '/' : `/${projectName}/`);
 
 const config: Config = {
   title: 'Petaladdin Docs',
@@ -13,14 +22,8 @@ const config: Config = {
   future: {
     v4: true,
   },
-  url:
-    process.env.DOCS_URL ??
-    (useCustomDomain
-      ? 'https://docs.petaladdin.com'
-      : `https://${organizationName}.github.io`),
-  baseUrl:
-    process.env.DOCS_BASE_URL ??
-    (useCustomDomain ? '/' : `/${projectName}/`),
+  url: siteUrl,
+  baseUrl,
   organizationName,
   projectName,
   deploymentBranch: 'gh-pages',
