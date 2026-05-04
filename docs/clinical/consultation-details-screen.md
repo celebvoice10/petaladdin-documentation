@@ -1,0 +1,47 @@
+---
+title: Consultation Details Screen
+---
+
+# Consultation Details Screen
+
+The consultation details page is the main read-only clinical summary for a saved consultation.
+
+## What the page shows
+
+The screen can include:
+
+- SOAP summary
+- visit details
+- patient details
+- complaint
+- history
+- diagnosis
+- vitals
+- physical exam findings
+- advice
+- follow-up date
+- investigations
+- procedures
+- prescription items
+
+## Main actions
+
+Depending on status and permissions, the page can show:
+
+- `Complete Consultation`
+- `Edit`
+- `PDF`
+
+## When to use this screen
+
+Open it when:
+
+- reviewing a finished clinical note
+- printing or exporting the consultation PDF
+- checking previous advice or medications
+- confirming whether a consultation is complete
+
+## Related pages
+
+- [Consultations List Screen](./consultations-list-screen.md)
+- [Edit Consultation Screen](./edit-consultation-screen.md)

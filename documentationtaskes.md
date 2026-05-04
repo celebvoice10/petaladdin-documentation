@@ -116,7 +116,7 @@ These should be completed first because they match the main clinic flow.
 - [x] Deworming schedule workflow
 - [x] POS checkout workflow
 - [x] Invoice creation workflow
-- [ ] Refund workflow
+- [x] Refund workflow
 
 ## Priority 2: Important Operational Modules
 
@@ -149,7 +149,7 @@ These should be completed first because they match the main clinic flow.
 - [x] Appointments report
 - [x] Clinical report
 - [x] Inventory report
-- [ ] Subscription screens
+- [x] Subscription screens
 
 ## Screen-by-Screen Writing Backlog
 
@@ -157,27 +157,27 @@ Write these as separate reference pages after the workflow pages are stable.
 
 ### General
 
-- [ ] Login screen
-- [ ] Forgot password screen
-- [ ] Reset password screen
+- [x] Login screen
+- [x] Forgot password screen
+- [x] Reset password screen
 - [x] Dashboard
 - [x] My Account
-- [ ] Clinic switcher
+- [x] Clinic switcher
 
 ### Front Desk and Patient Management
 
 - [x] Pet Parents list screen
-- [ ] Create Pet Parent screen
-- [ ] Edit Pet Parent screen
+- [x] Create Pet Parent screen
+- [x] Edit Pet Parent screen
 - [x] Pets list screen
-- [ ] Create Pet screen
-- [ ] Edit Pet screen
+- [x] Create Pet screen
+- [x] Edit Pet screen
 - [x] Pet Profile screen
-- [ ] Appointments list screen
-- [ ] Create Appointment screen
-- [ ] Edit Appointment screen
-- [ ] Appointment details screen
-- [ ] Appointment setup screen
+- [x] Appointments list screen
+- [x] Create Appointment screen
+- [x] Edit Appointment screen
+- [x] Appointment details screen
+- [x] Appointment setup screen
 
 ### Clinical
 
@@ -185,7 +185,11 @@ Write these as separate reference pages after the workflow pages are stable.
 - [ ] Create Consultation screen
 - [ ] Edit Consultation screen
 - [ ] Consultation details screen
-- [ ] Prescription Templates screen
+- [x] Consultations list screen
+- [x] Create Consultation screen
+- [x] Edit Consultation screen
+- [x] Consultation details screen
+- [x] Prescription Templates screen
 - [x] Vaccinations list and form screens
 - [x] Deworming list and form screens
 - [x] Certificates screen
@@ -198,7 +202,10 @@ Write these as separate reference pages after the workflow pages are stable.
 - [ ] Edit Invoice screen
 - [x] Invoice details screen
 - [ ] Invoice print screen
-- [ ] Invoice refund screen
+- [x] Create Invoice screen
+- [x] Edit Invoice screen
+- [x] Invoice print screen
+- [x] Invoice refund screen
 - [x] Quotations list and form screens
 - [x] Coupons list and form screens
 - [x] Membership Plans list and form screens
@@ -210,16 +217,24 @@ Write these as separate reference pages after the workflow pages are stable.
 - [ ] Create Product screen
 - [ ] Edit Product screen
 - [ ] Product details screen
+- [x] Create Product screen
+- [x] Edit Product screen
+- [x] Product details screen
 - [x] Product import screen
 - [x] Suppliers screens
 - [x] Purchases list screen
 - [ ] Create Purchase screen
 - [ ] Edit Purchase screen
 - [ ] Purchase details screen
+- [x] Create Purchase screen
+- [x] Edit Purchase screen
+- [x] Purchase details screen
 - [x] Stock Adjustments list screen
 - [ ] Create Stock Adjustment screen
 - [ ] Stock Adjustment details screen
-- [ ] Stock Adjustment import screen
+- [x] Create Stock Adjustment screen
+- [x] Stock Adjustment details screen
+- [x] Stock Adjustment import screen
 
 ### Reports and Admin
 
@@ -382,3 +397,35 @@ Observed important subflows from routes and views:
 - [x] Write `Appointments Report`
 - [x] Write `Clinical Report`
 - [x] Write `Inventory Report`
+- [x] Write `Login Screen`
+- [x] Write `Forgot Password Screen`
+- [x] Write `Reset Password Screen`
+- [x] Write `Clinic Switcher`
+- [x] Write `Appointments List Screen`
+- [x] Write `Create Appointment Screen`
+- [x] Write `Edit Appointment Screen`
+- [x] Write `Appointment Details Screen`
+- [x] Write `Appointment Setup Screen`
+- [x] Write `Refund Workflow`
+- [x] Write `Invoice Refund Record`
+- [x] Write `Create Product Screen`
+- [x] Write `Edit Product Screen`
+- [x] Write `Product Details Screen`
+- [x] Write `Create Purchase Screen`
+- [x] Write `Edit Purchase Screen`
+- [x] Write `Purchase Details Screen`
+- [x] Write `Create Stock Adjustment Screen`
+- [x] Write `Stock Adjustment Details Screen`
+- [x] Write `Create Invoice Screen`
+- [x] Write `Edit Invoice Screen`
+- [x] Write `Invoice Print Screen`
+- [x] Write `Consultations List Screen`
+- [x] Write `Create Consultation Screen`
+- [x] Write `Edit Consultation Screen`
+- [x] Write `Consultation Details Screen`
+- [x] Write `Create Pet Parent Screen`
+- [x] Write `Edit Pet Parent Screen`
+- [x] Write `Create Pet Screen`
+- [x] Write `Edit Pet Screen`
+- [x] Write `Prescription Templates Screen`
+- [x] Write `Stock Adjustment Import Screen`

@@ -1,0 +1,65 @@
+---
+title: Create Appointment Screen
+---
+
+# Create Appointment Screen
+
+The `Schedule` form is used to create a new appointment for a pet parent and pet.
+
+## Main sections
+
+The form is split into:
+
+- `Schedule Slot`
+- `Patient Assignment`
+- `Workflow Notes`
+
+## Schedule fields
+
+The scheduling section can include:
+
+- appointment type
+- status
+- date
+- start time
+- end time
+- title
+- department
+- room
+- equipment
+
+Petaladdin can automatically suggest the end time based on appointment type duration.
+
+## Patient assignment tools
+
+The assignment section can include:
+
+- pet parent search
+- quick `Add Pet Parent` modal
+- pet selector
+- quick `Add Pet` modal
+- doctor or vet assignment
+
+## Quick-create behavior
+
+From this screen, staff can register:
+
+- a new pet parent with name, phone, email, address, and notes
+- a new pet with species, breed, sex, age, date of birth, and color
+
+This is useful when a caller or walk-in patient is new to the clinic.
+
+## Before saving
+
+Check:
+
+- the correct clinic context
+- the correct pet parent
+- the correct pet
+- doctor, room, and department alignment
+- notes or cancellation reason if relevant
+
+## Related pages
+
+- [Appointments List Screen](./appointments-list-screen.md)
+- [Edit Appointment Screen](./edit-appointment-screen.md)
