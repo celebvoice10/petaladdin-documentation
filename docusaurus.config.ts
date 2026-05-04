@@ -37,7 +37,7 @@ const config: Config = {
         docs: {
           routeBasePath: 'docs',
           sidebarPath: './sidebars.ts',
-          editUrl: `https://github.com/${organizationName}/${projectName}/tree/main/petaladdin-documentation/`,
+          editUrl: `https://github.com/${organizationName}/${projectName}/tree/main/`,
         },
         blog: false,
         theme: {

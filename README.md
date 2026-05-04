@@ -28,16 +28,18 @@ The generated site will be written to `build/`.
 
 ## GitHub Pages publishing
 
-This repository includes a workflow at `../.github/workflows/publish-documentation.yml` that builds the docs from the `petaladdin-documentation` folder and deploys them to GitHub Pages.
+This repository includes a workflow at `.github/workflows/deploy.yml` that builds and deploys the documentation site to GitHub Pages.
 
 ### Default setup
 
-If you publish from this repository as a standard GitHub Pages project site, no changes are needed beyond enabling Pages in GitHub:
+If you publish this repository as a standard GitHub Pages project site, no code changes are needed beyond enabling Pages in GitHub:
 
 - Source: `GitHub Actions`
-- Published URL pattern: `https://<owner>.github.io/<root-repository-name>/`
+- Published URL pattern: `https://<owner>.github.io/<repository-name>/`
 
-Because the documentation lives in a subfolder, the site URL is based on the repository name, not the `petaladdin-documentation` folder name.
+For this repository, the expected URL is:
+
+- `https://celebvoice10.github.io/petaladdin-documentation/`
 
 ### Recommended long-term setup
 
