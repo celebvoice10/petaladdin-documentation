@@ -44,4 +44,4 @@ Use this report when:
 
 - [Managing Appointments](../appointments/managing-appointments.md)
 - [Clinical Report](./clinical-report.md)
-- [Doctor Performance Report](./doctor-performance-report.md)
+- [Staff Performance](./doctor-performance-report.md)

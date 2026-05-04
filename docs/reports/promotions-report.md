@@ -12,7 +12,7 @@ The `Promotions Report` focuses on coupon usage, membership savings, renewal rem
 - export promotion data
 - check coupons that need attention
 - review membership renewals due
-- queue renewal reminders when allowed
+- use `Queue Renewal Reminders` when allowed
 
 ## Key metrics on this page
 

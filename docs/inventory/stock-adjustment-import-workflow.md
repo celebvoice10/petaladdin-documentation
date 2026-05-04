@@ -31,5 +31,5 @@ Those belong in [Product Import Workflow](./product-import-workflow.md).
 
 ## Related pages
 
-- [Stock Adjustment Management](./stock-adjustment-management.md)
+- [Adjustments](./stock-adjustment-management.md)
 - [Product Import Workflow](./product-import-workflow.md)

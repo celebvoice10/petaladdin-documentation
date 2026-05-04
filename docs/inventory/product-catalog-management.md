@@ -1,8 +1,8 @@
 ---
-title: Product Catalog Management
+title: Inventory
 ---
 
-# Product Catalog Management
+# Inventory
 
 The `Inventory` page helps clinics manage products, medicines, services, stock visibility, and pricing for the active clinic.
 
@@ -12,8 +12,8 @@ The `Inventory` page helps clinics manage products, medicines, services, stock v
 - filter by type, category, stock state, and status
 - review stock and pricing
 - open product details
-- add new products
-- navigate to categories, suppliers, purchases, adjustments, import, and export
+- use `Add Product`
+- use the quick links `Categories`, `Suppliers`, `Purchases`, `Adjustments`, `Import`, and `Export`
 
 ## What the product list shows
 
@@ -38,5 +38,5 @@ Use filters to isolate low-stock, inactive, or category-specific products before
 ## Related pages
 
 - [Managing Medicines and Stock](./managing-medicines-stock.md)
-- [Purchase Management](./purchase-management.md)
-- [Stock Adjustment Management](./stock-adjustment-management.md)
+- [Purchases](./purchase-management.md)
+- [Adjustments](./stock-adjustment-management.md)

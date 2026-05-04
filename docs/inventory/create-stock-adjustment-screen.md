@@ -56,4 +56,4 @@ For stock-out entries, batch selection is optional unless you want to target a s
 ## Related pages
 
 - [Stock Adjustment Details Screen](./stock-adjustment-details-screen.md)
-- [Stock Adjustment Management](./stock-adjustment-management.md)
+- [Adjustments](./stock-adjustment-management.md)

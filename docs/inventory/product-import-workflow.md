@@ -40,5 +40,5 @@ Rows are matched by:
 
 ## Related pages
 
-- [Product Catalog Management](./product-catalog-management.md)
+- [Inventory](./product-catalog-management.md)
 - [Stock Adjustment Import Workflow](./stock-adjustment-import-workflow.md)

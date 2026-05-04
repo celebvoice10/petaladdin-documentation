@@ -1,8 +1,8 @@
 ---
-title: Clinic Settings
+title: Settings
 ---
 
-# Clinic Settings
+# Settings
 
 The `Clinic Settings` page controls clinic-level defaults for consultations, appointments, billing tax behavior, and product tax rules.
 
@@ -73,6 +73,6 @@ Only change tax settings when the clinic has confirmed billing rules, because th
 
 ## Related pages
 
-- [Clinic Management](./clinic-management.md)
-- [Product Catalog Management](../inventory/product-catalog-management.md)
-- [Invoice Management](../billing/invoice-management.md)
+- [Clinics](./clinic-management.md)
+- [Inventory](../inventory/product-catalog-management.md)
+- [Billing](../billing/invoice-management.md)

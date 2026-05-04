@@ -1,8 +1,8 @@
 ---
-title: Stock Adjustment Management
+title: Adjustments
 ---
 
-# Stock Adjustment Management
+# Adjustments
 
 The `Stock Adjustments` module is used when inventory must be corrected outside the normal purchase and sales flow.
 
@@ -54,5 +54,5 @@ Always choose the correct reason and stock direction. A wrong adjustment type ca
 
 ## Related pages
 
-- [Product Catalog Management](./product-catalog-management.md)
+- [Inventory](./product-catalog-management.md)
 - [Stock Adjustment Import Workflow](./stock-adjustment-import-workflow.md)

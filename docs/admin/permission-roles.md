@@ -8,7 +8,7 @@ The `Permission Roles` page lets clinic administrators create reusable access bu
 
 ## What users can do here
 
-- create clinic-specific permission roles
+- use `Add Permission Role`
 - review enabled package limits
 - see assignable feature counts
 - edit which features belong to each role

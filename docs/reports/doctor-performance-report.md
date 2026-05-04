@@ -1,8 +1,8 @@
 ---
-title: Doctor Performance Report
+title: Staff Performance
 ---
 
-# Doctor Performance Report
+# Staff Performance
 
 The `Staff Performance` report compares consultations, completion rates, and invoice revenue across clinical staff.
 

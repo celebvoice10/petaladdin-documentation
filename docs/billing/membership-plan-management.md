@@ -31,4 +31,4 @@ Each plan can show:
 
 - [POS Checkout Workflow](./pos-checkout-workflow.md)
 - [Coupon Management](./coupon-management.md)
-- [Product Category Management](../inventory/product-category-management.md)
+- [Categories](../inventory/product-category-management.md)

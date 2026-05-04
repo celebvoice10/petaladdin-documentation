@@ -313,6 +313,9 @@ When screenshots are added:
 - [x] Confirmed sidebar labels such as `Pet Profile`, `Certificates`, `Inventory`, and `Billing`
 - [x] Updated documentation labels to better match the live navigation where mismatches were found
 - [x] Renamed docs titles to match live module labels such as `Users`, `Subscription`, `Communication`, and `Billing Report`
+- [x] Renamed main module guides to match live labels such as `Pet Parents`, `Pets`, `Billing`, `Inventory`, `Reports`, and `Settings`
+- [x] Renamed additional live-aligned pages such as `Clinics`, `Purchases`, `Categories`, `Adjustments`, `Suppliers`, and `Staff Performance`
+- [x] Aligned action-level wording with live buttons such as `Add Clinic`, `Add Doctor Staff`, `Add Category`, `Add Supplier`, `New Purchase`, `Add Staff`, `Create Invoice`, and `Queue Membership Renewals`
 
 ## Notes From Current App Review
 

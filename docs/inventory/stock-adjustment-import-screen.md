@@ -60,4 +60,4 @@ The page explains that:
 ## Related pages
 
 - [Stock Adjustment Import Workflow](./stock-adjustment-import-workflow.md)
-- [Stock Adjustment Management](./stock-adjustment-management.md)
+- [Adjustments](./stock-adjustment-management.md)

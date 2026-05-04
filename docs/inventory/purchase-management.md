@@ -1,19 +1,25 @@
 ---
-title: Purchase Management
+title: Purchases
 ---
 
-# Purchase Management
+# Purchases
 
 The `Purchases` module helps clinics track procurement from supplier order stage through stock receipt.
 
 ## What users can do here
 
-- create a new purchase
+- use `New Purchase`
 - review all purchases
 - track order status
 - check supplier details
 - compare ordered versus received quantities
 - open purchase details
+
+## Main actions
+
+The page can show:
+
+- `New Purchase`
 
 ## What the purchase list shows
 
@@ -44,5 +50,5 @@ Review `received` versus `ordered` quantities regularly. Partial receipts should
 
 ## Related pages
 
-- [Supplier Management](./supplier-management.md)
-- [Product Catalog Management](./product-catalog-management.md)
+- [Suppliers](./supplier-management.md)
+- [Inventory](./product-catalog-management.md)

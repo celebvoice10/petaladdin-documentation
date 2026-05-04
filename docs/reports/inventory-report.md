@@ -42,6 +42,6 @@ Use this report when:
 
 ## Related pages
 
-- [Product Catalog Management](../inventory/product-catalog-management.md)
-- [Purchase Management](../inventory/purchase-management.md)
-- [Stock Adjustment Management](../inventory/stock-adjustment-management.md)
+- [Inventory](../inventory/product-catalog-management.md)
+- [Purchases](../inventory/purchase-management.md)
+- [Adjustments](../inventory/stock-adjustment-management.md)

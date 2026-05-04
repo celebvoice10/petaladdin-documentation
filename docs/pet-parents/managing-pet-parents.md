@@ -1,8 +1,8 @@
 ---
-title: Managing Pet Parents
+title: Pet Parents
 ---
 
-# Managing Pet Parents
+# Pet Parents
 
 The `Pet Parents` module stores owner contact details and links each owner to their pets. Front-desk and admin teams use this section to keep client information accurate.
 

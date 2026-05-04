@@ -62,5 +62,5 @@ Clinic admins should review this page early when the package is close to expirin
 ## Related pages
 
 - [My Account](./my-account.md)
-- [Clinic Management](./clinic-management.md)
+- [Clinics](./clinic-management.md)
 - [Permission Roles](./permission-roles.md)

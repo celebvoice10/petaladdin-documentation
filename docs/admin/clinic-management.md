@@ -1,8 +1,8 @@
 ---
-title: Clinic Management
+title: Clinics
 ---
 
-# Clinic Management
+# Clinics
 
 The `Clinics` module helps clinic administrators manage clinic profiles, legal identifiers, contact details, and payment information for each allotted clinic.
 
@@ -11,9 +11,17 @@ The `Clinics` module helps clinic administrators manage clinic profiles, legal i
 - view clinic allotment and remaining clinic slots
 - search clinics by name, phone, email, or tenant admin
 - filter by status
-- add a new clinic
+- use `Add Clinic`
 - open clinic details
 - edit an existing clinic profile
+
+## Main actions
+
+The page can show:
+
+- `Add Clinic`
+- `Filters`
+- `Reset`
 
 ## What the clinic list shows
 
@@ -64,5 +72,5 @@ Review this page when:
 
 ## Related pages
 
-- [Clinic Settings](./clinic-settings.md)
-- [Subscription Management](./subscription-management.md)
+- [Settings](./clinic-settings.md)
+- [Subscription](./subscription-management.md)

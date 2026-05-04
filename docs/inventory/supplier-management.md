@@ -1,14 +1,14 @@
 ---
-title: Supplier Management
+title: Suppliers
 ---
 
-# Supplier Management
+# Suppliers
 
 The `Suppliers` module helps clinics manage vendors for medicines, food, and stock-related purchasing.
 
 ## What users can do here
 
-- add a supplier
+- use `Add Supplier`
 - edit supplier details
 - review supplier status
 - check clinic mapping
@@ -36,5 +36,5 @@ Use the `Suppliers` page when:
 
 ## Related pages
 
-- [Purchase Management](./purchase-management.md)
-- [Product Catalog Management](./product-catalog-management.md)
+- [Purchases](./purchase-management.md)
+- [Inventory](./product-catalog-management.md)

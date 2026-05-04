@@ -1,14 +1,14 @@
 ---
-title: Invoice Management
+title: Billing
 ---
 
-# Invoice Management
+# Billing
 
-The `Billing` section helps clinic teams create invoices, track payments, review balances, and manage invoice follow-up.
+The `Billing` section helps clinic teams use `Create Invoice`, track payments, review balances, and manage invoice follow-up.
 
 ## What users can do here
 
-- create invoices
+- use `Create Invoice`
 - review existing invoices
 - filter invoices by customer mode
 - open invoice details
@@ -18,6 +18,12 @@ The `Billing` section helps clinic teams create invoices, track payments, review
 - post refunds when permitted
 
 ## Invoice list screen
+
+The page can also show quick links such as:
+
+- `Quotations`
+- `Coupons`
+- `Create Invoice`
 
 The invoice list shows:
 

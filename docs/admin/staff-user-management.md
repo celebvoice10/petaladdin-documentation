@@ -11,7 +11,7 @@ The `Users` page is where clinic administrators add staff accounts, assign them 
 - review staff capacity and clinic allotment
 - search by name, email, phone, or username
 - filter by clinic, staff type, permission role, and status
-- add new staff accounts
+- use `Add Staff`
 - edit existing staff access and profile details
 
 ## What the staff list shows
@@ -37,6 +37,12 @@ The page supports:
 - sort order
 
 Use filters when reviewing a large team or checking who has access to a specific clinic.
+
+The page also shows:
+
+- `Add Staff`
+- `Filters`
+- `Reset`
 
 ## Adding a staff member
 

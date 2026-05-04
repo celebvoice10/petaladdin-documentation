@@ -9,8 +9,8 @@ The `Communication` page helps clinic teams review reminders, payment notificati
 ## What users can do here
 
 - review sent and queued communication records
-- trigger due reminders
-- queue membership renewal reminders
+- use `Queue Due`
+- use `Queue Membership Renewals`
 - check delivery status and errors
 
 ## What the log shows

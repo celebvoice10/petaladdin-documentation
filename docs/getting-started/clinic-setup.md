@@ -26,7 +26,7 @@ Create accounts for receptionists, veterinarians, nurses, and administrators. Gi
 
 ### Services and pricing
 
-Set up consultation types, procedures, and billing defaults so front-desk staff can create invoices accurately.
+Set up consultation types, procedures, and billing defaults so front-desk staff can use `Create Invoice` accurately.
 
 ### Final checks
 

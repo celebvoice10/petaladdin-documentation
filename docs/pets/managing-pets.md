@@ -1,8 +1,8 @@
 ---
-title: Managing Pets
+title: Pets
 ---
 
-# Managing Pets
+# Pets
 
 The `Pets` module stores each pet's clinical identity record. It connects the pet to its owner, clinic, species, breed, and status.
 

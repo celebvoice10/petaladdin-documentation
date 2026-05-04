@@ -43,4 +43,4 @@ Use this report when:
 
 - [Consultations and Treatment Notes](../clinical/consultations-treatment-notes.md)
 - [Appointments Report](./appointments-report.md)
-- [Doctor Performance Report](./doctor-performance-report.md)
+- [Staff Performance](./doctor-performance-report.md)

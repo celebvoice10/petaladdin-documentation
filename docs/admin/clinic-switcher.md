@@ -34,5 +34,5 @@ Always confirm the active clinic before scheduling appointments, receiving purch
 
 ## Related pages
 
-- [Clinic Management](./clinic-management.md)
+- [Clinics](./clinic-management.md)
 - [Dashboard Overview](../dashboard/dashboard-overview.md)

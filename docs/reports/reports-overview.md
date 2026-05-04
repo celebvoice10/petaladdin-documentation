@@ -1,8 +1,8 @@
 ---
-title: Reports Overview
+title: Reports
 ---
 
-# Reports Overview
+# Reports
 
 Reports help clinic leaders and operations teams understand what is happening across appointments, billing, and overall activity.
 

@@ -58,4 +58,4 @@ Open it when:
 ## Related pages
 
 - [Create Purchase Screen](./create-purchase-screen.md)
-- [Purchase Management](./purchase-management.md)
+- [Purchases](./purchase-management.md)

@@ -35,11 +35,11 @@ Use [Staff User Management](../admin/staff-user-management.md), [Users and Roles
 
 ### 3. Maintain clinic settings
 
-Use [Clinic Management](../admin/clinic-management.md), [Clinic Settings](../admin/clinic-settings.md), and [Clinic Switcher](../admin/clinic-switcher.md) when multiple clinics or configuration changes are involved.
+Use [Clinics](../admin/clinic-management.md), [Settings](../admin/clinic-settings.md), and [Clinic Switcher](../admin/clinic-switcher.md) when multiple clinics or configuration changes are involved.
 
 ### 4. Review financial and inventory health
 
-Use [Finance Report](../reports/finance-report.md), [Inventory Report](../reports/inventory-report.md), [Managing Medicines and Stock](../inventory/managing-medicines-stock.md), and [Purchase Management](../inventory/purchase-management.md) to support operational decisions.
+Use [Billing Report](../reports/finance-report.md), [Inventory Report](../reports/inventory-report.md), [Managing Medicines and Stock](../inventory/managing-medicines-stock.md), and [Purchases](../inventory/purchase-management.md) to support operational decisions.
 
 ### 5. Watch communication and subscriptions
 
@@ -66,5 +66,5 @@ Escalate to the platform owner or technical support when:
 
 - [Dashboard Overview](../dashboard/dashboard-overview.md)
 - [Staff User Management](../admin/staff-user-management.md)
-- [Clinic Settings](../admin/clinic-settings.md)
-- [Finance Report](../reports/finance-report.md)
+- [Settings](../admin/clinic-settings.md)
+- [Billing Report](../reports/finance-report.md)

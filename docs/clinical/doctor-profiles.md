@@ -13,7 +13,15 @@ The `Doctor Profiles` module helps clinics maintain clinical staff records for d
 - filter by status
 - open doctor records
 - edit doctor details when permitted
-- add new doctor staff
+- use `Add Doctor Staff`
+
+## Main actions
+
+The page can show:
+
+- `Add Doctor Staff`
+- `Filters`
+- `Reset`
 
 ## What the doctor list shows
 

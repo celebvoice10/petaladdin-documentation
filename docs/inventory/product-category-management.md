@@ -1,14 +1,14 @@
 ---
-title: Product Category Management
+title: Categories
 ---
 
-# Product Category Management
+# Categories
 
 The `Product Categories` module groups products, medicines, food, and services for inventory organization and billing logic.
 
 ## What users can do here
 
-- add a category
+- use `Add Category`
 - edit a category
 - review category status
 - see how many products belong to each category
@@ -33,5 +33,5 @@ Categories support:
 
 ## Related pages
 
-- [Product Catalog Management](./product-catalog-management.md)
+- [Inventory](./product-catalog-management.md)
 - [Membership Plan Management](../billing/membership-plan-management.md)

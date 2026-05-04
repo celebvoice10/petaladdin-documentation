@@ -58,4 +58,4 @@ Open it when:
 ## Related pages
 
 - [Create Product Screen](./create-product-screen.md)
-- [Stock Adjustment Management](./stock-adjustment-management.md)
+- [Adjustments](./stock-adjustment-management.md)
