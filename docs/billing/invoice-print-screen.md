@@ -44,5 +44,5 @@ Use it when:
 
 ## Related pages
 
-- [Invoice Management](./invoice-management.md)
+- [Billing](./invoice-management.md)
 - [Create Invoice Screen](./create-invoice-screen.md)

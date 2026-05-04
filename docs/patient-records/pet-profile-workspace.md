@@ -110,4 +110,4 @@ Use this page when you need one combined view before:
 
 - [Patient Profiles](./patient-profiles.md)
 - [Consultations and Treatment Notes](../clinical/consultations-treatment-notes.md)
-- [Managing Pets](../pets/managing-pets.md)
+- [Pets](../pets/managing-pets.md)

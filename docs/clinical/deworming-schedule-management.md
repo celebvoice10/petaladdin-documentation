@@ -1,8 +1,8 @@
 ---
-title: Deworming Schedule Management
+title: Deworming
 ---
 
-# Deworming Schedule Management
+# Deworming
 
 The `Deworming` module helps clinics schedule, complete, and review deworming records for pets in the active clinic.
 
@@ -11,7 +11,7 @@ The `Deworming` module helps clinics schedule, complete, and review deworming re
 - search deworming records by dewormer, pet, parent, or phone
 - filter by status
 - sort by due date or dewormer name
-- add a new deworming plan
+- use `Add Deworming`
 - review previous deworming history
 - use AutoFill for planned future dates
 
@@ -23,7 +23,7 @@ The list includes:
 - advanced filters
 - status filters
 - sorting
-- quick access to create a new deworming plan
+- quick access to `Add Deworming`
 
 This page is useful for finding:
 
@@ -84,5 +84,5 @@ Use previous history as your reference point before creating new future dates. A
 ## Related pages
 
 - [Pet Profile](../patient-records/pet-profile-workspace.md)
-- [Vaccination Schedule Management](./vaccination-schedule-management.md)
+- [Vaccinations](./vaccination-schedule-management.md)
 - [Dashboard Overview](../dashboard/dashboard-overview.md)

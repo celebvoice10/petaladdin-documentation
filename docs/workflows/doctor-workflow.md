@@ -42,11 +42,11 @@ Use [Consultations and Treatment Notes](../clinical/consultations-treatment-note
 
 ### 3. Apply reusable treatment plans
 
-Use [Prescription Templates Screen](../clinical/prescription-templates-screen.md) when the clinic uses standard medication plans for common cases.
+Use [Prescription Templates Screen](../clinical/prescription-templates-screen.md) and `New Template` when the clinic uses standard medication plans for common cases.
 
 ### 4. Update preventive care
 
-Use [Vaccination Schedule Management](../clinical/vaccination-schedule-management.md) and [Deworming Schedule Management](../clinical/deworming-schedule-management.md) when a visit changes preventive care status.
+Use [Vaccinations](../clinical/vaccination-schedule-management.md) and [Deworming](../clinical/deworming-schedule-management.md) when a visit changes preventive care status.
 
 ### 5. Issue supporting documents
 

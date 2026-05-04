@@ -31,7 +31,7 @@ Use [Dashboard Overview](../dashboard/dashboard-overview.md), [Appointments Repo
 
 ### 2. Support people and access
 
-Use [Staff User Management](../admin/staff-user-management.md), [Users and Roles](../admin/users-roles.md), [Permission Roles](../admin/permission-roles.md), and [Access Audit](../admin/access-audit.md) to manage staff and permissions safely.
+Use [Users](../admin/staff-user-management.md), [Users and Roles](../admin/users-roles.md), [Permission Roles](../admin/permission-roles.md), and [Access Audit](../admin/access-audit.md) to manage staff and permissions safely.
 
 ### 3. Maintain clinic settings
 
@@ -43,7 +43,7 @@ Use [Billing Report](../reports/finance-report.md), [Inventory Report](../report
 
 ### 5. Watch communication and subscriptions
 
-Use [Communication Logs](../admin/communication-logs.md) and [Subscription Management](../admin/subscription-management.md) when reminders, package limits, or renewals affect clinic operations.
+Use [Communication](../admin/communication-logs.md) and [Subscription](../admin/subscription-management.md) when reminders, package limits, or renewals affect clinic operations.
 
 ## Weekly review checklist
 
@@ -65,6 +65,6 @@ Escalate to the platform owner or technical support when:
 ## Related pages
 
 - [Dashboard Overview](../dashboard/dashboard-overview.md)
-- [Staff User Management](../admin/staff-user-management.md)
+- [Users](../admin/staff-user-management.md)
 - [Settings](../admin/clinic-settings.md)
 - [Billing Report](../reports/finance-report.md)

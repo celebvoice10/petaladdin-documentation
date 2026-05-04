@@ -30,8 +30,57 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-.navbar {
-  backdrop-filter: blur(10px);
+@media (min-width: 997px) {
+  .navbar {
+    backdrop-filter: blur(10px);
+  }
+}
+
+@media (max-width: 996px) {
+  .navbar,
+  .navbar-sidebar--show {
+    backdrop-filter: none;
+  }
+
+  .navbar__toggle {
+    display: inherit;
+    position: relative;
+    touch-action: manipulation;
+  }
+
+  .navbar-sidebar {
+    background-color: var(--ifm-background-surface-color);
+    bottom: 0;
+    height: 100vh;
+    left: 0;
+    max-height: 100vh;
+    position: fixed;
+    top: 0;
+    z-index: 420;
+  }
+
+  .navbar-sidebar__backdrop {
+    bottom: 0;
+    height: 100vh;
+    left: 0;
+    max-height: 100vh;
+    position: fixed;
+    top: 0;
+    z-index: 410;
+  }
+
+  .navbar-sidebar--show {
+    transform: translate3d(0, 0, 0);
+  }
+
+  .navbar-sidebar__items {
+    height: calc(100vh - var(--ifm-navbar-height));
+  }
+
+  .navbar-sidebar__item {
+    height: 100%;
+    overflow-y: auto;
+  }
 }
 
 .button.button--secondary {

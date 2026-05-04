@@ -55,4 +55,4 @@ Keep your phone number and email current so password recovery, clinic communicat
 ## Related pages
 
 - [Users and Roles](./users-roles.md)
-- [Subscription Management](./subscription-management.md)
+- [Subscription](./subscription-management.md)

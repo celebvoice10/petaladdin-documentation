@@ -34,4 +34,4 @@ Categories support:
 ## Related pages
 
 - [Inventory](./product-catalog-management.md)
-- [Membership Plan Management](../billing/membership-plan-management.md)
+- [Memberships](../billing/membership-plan-management.md)

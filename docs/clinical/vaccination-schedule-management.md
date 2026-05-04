@@ -1,8 +1,8 @@
 ---
-title: Vaccination Schedule Management
+title: Vaccinations
 ---
 
-# Vaccination Schedule Management
+# Vaccinations
 
 The `Vaccinations` module helps clinics track vaccine due dates, completion status, reminder planning, and prior vaccination history.
 
@@ -11,7 +11,7 @@ The `Vaccinations` module helps clinics track vaccine due dates, completion stat
 - search vaccination records by vaccine, pet, parent, or phone
 - filter by status
 - sort by due date or vaccine name
-- add a new vaccination plan
+- use `Add Vaccination`
 - review prior vaccination history
 - complete vaccination entries
 
@@ -23,7 +23,7 @@ The list supports:
 - advanced filters
 - status filtering
 - sort order changes
-- quick access to add a new vaccination
+- quick access to `Add Vaccination`
 
 This screen is most useful for monitoring upcoming, overdue, and completed vaccinations.
 
@@ -91,4 +91,4 @@ Always verify the pet and consultation context before saving. Vaccination record
 
 - [Pet Profile](../patient-records/pet-profile-workspace.md)
 - [Consultations and Treatment Notes](./consultations-treatment-notes.md)
-- [Deworming Schedule Management](./deworming-schedule-management.md)
+- [Deworming](./deworming-schedule-management.md)

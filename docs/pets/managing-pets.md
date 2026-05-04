@@ -67,6 +67,6 @@ This list is often the fastest place to confirm whether a pet already exists bef
 
 ## Related pages
 
-- [Managing Pet Parents](../pet-parents/managing-pet-parents.md)
+- [Pet Parents](../pet-parents/managing-pet-parents.md)
 - [Pet Profile](../patient-records/pet-profile-workspace.md)
 - [Managing Appointments](../appointments/managing-appointments.md)

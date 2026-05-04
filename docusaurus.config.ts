@@ -49,6 +49,21 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
+  themes: [
+    [
+      '@easyops-cn/docusaurus-search-local',
+      {
+        hashed: true,
+        language: ['en'],
+        indexDocs: true,
+        indexBlog: false,
+        indexPages: true,
+        docsRouteBasePath: '/docs',
+        highlightSearchTermsOnTargetPage: true,
+        explicitSearchResultPath: true,
+      },
+    ],
+  ],
   themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
     colorMode: {

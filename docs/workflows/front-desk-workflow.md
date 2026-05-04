@@ -42,7 +42,7 @@ Use [Patient Check-In and Check-Out](../appointments/check-in-check-out.md) to m
 
 ### 3. Support record accuracy
 
-Use [Managing Pet Parents](../pet-parents/managing-pet-parents.md), [Managing Pets](../pets/managing-pets.md), and [Pet Profile](../patient-records/pet-profile-workspace.md) when you need to confirm owner details, pet details, or visit history.
+Use [Pet Parents](../pet-parents/managing-pet-parents.md), [Pets](../pets/managing-pets.md), and [Pet Profile](../patient-records/pet-profile-workspace.md) when you need to confirm owner details, pet details, or visit history.
 
 ### 4. Coordinate billing handoff
 
@@ -68,6 +68,6 @@ Tell an administrator or supervisor when:
 
 - [Managing Appointments](../appointments/managing-appointments.md)
 - [Patient Check-In and Check-Out](../appointments/check-in-check-out.md)
-- [Managing Pet Parents](../pet-parents/managing-pet-parents.md)
-- [Managing Pets](../pets/managing-pets.md)
+- [Pet Parents](../pet-parents/managing-pet-parents.md)
+- [Pets](../pets/managing-pets.md)
 - [Billing Workflow](./billing-workflow.md)

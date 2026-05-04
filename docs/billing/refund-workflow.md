@@ -48,6 +48,6 @@ Refunds affect financial reporting and promotion totals, so they should be poste
 
 ## Related pages
 
-- [Invoice Management](./invoice-management.md)
+- [Billing](./invoice-management.md)
 - [Invoice Refund Record](./invoice-refund-record.md)
-- [Finance Report](../reports/finance-report.md)
+- [Billing Report](../reports/finance-report.md)

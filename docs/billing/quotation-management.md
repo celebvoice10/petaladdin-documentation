@@ -1,18 +1,27 @@
 ---
-title: Quotation Management
+title: Quotations
 ---
 
-# Quotation Management
+# Quotations
 
 The `Quotations` module helps clinics prepare service or treatment estimates before checkout.
 
 ## What users can do here
 
-- create a quotation
+- use `New Quotation`
 - review quotation history
 - check quotation status
 - open a quotation in POS
 - edit a quotation before conversion
+
+## Main actions
+
+The page can show:
+
+- `POS`
+- `New Quotation`
+- `Open in POS`
+- `Save Quotation`
 
 ## What the quotation list shows
 
@@ -38,4 +47,4 @@ When a quotation is ready for checkout:
 ## Related pages
 
 - [POS Checkout Workflow](./pos-checkout-workflow.md)
-- [Invoice Management](./invoice-management.md)
+- [Billing](./invoice-management.md)

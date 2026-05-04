@@ -64,6 +64,6 @@ Create a small number of clear roles and reuse them. Too many near-duplicate rol
 
 ## Related pages
 
-- [Staff User Management](./staff-user-management.md)
+- [Users](./staff-user-management.md)
 - [Access Audit](./access-audit.md)
 - [Users and Roles](./users-roles.md)

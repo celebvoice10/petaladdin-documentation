@@ -22,4 +22,4 @@ Review line discounts and tax percentages carefully before saving, especially if
 ## Related pages
 
 - [Create Invoice Screen](./create-invoice-screen.md)
-- [Invoice Management](./invoice-management.md)
+- [Billing](./invoice-management.md)

@@ -51,5 +51,5 @@ Review recent audit entries after major staffing changes or permission updates s
 
 ## Related pages
 
-- [Staff User Management](./staff-user-management.md)
+- [Users](./staff-user-management.md)
 - [Permission Roles](./permission-roles.md)

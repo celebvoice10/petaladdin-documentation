@@ -28,7 +28,7 @@ Quick guide:
 
 ### 1. Complete regular patient billing
 
-Use [Invoice Management](../billing/invoice-management.md), [Create Invoice Screen](../billing/create-invoice-screen.md), and [Edit Invoice Screen](../billing/edit-invoice-screen.md) for patient-linked invoices.
+Use [Billing](../billing/invoice-management.md), [Create Invoice Screen](../billing/create-invoice-screen.md), and [Edit Invoice Screen](../billing/edit-invoice-screen.md) for patient-linked invoices.
 
 ### 2. Use POS for counter sales
 
@@ -44,7 +44,7 @@ Use [Invoice Print Screen](../billing/invoice-print-screen.md), [Refund Workflow
 
 ### 5. Review promotions and plans
 
-Use [Coupon Management](../billing/coupon-management.md) and [Membership Plan Management](../billing/membership-plan-management.md) when discounts or membership benefits affect the bill.
+Use [Coupons](../billing/coupon-management.md) and [Memberships](../billing/membership-plan-management.md) when discounts or membership benefits affect the bill.
 
 ## End-of-day checks
 
@@ -64,7 +64,7 @@ Tell an administrator or supervisor when:
 
 ## Related pages
 
-- [Invoice Management](../billing/invoice-management.md)
+- [Billing](../billing/invoice-management.md)
 - [POS Checkout Workflow](../billing/pos-checkout-workflow.md)
 - [Refund Workflow](../billing/refund-workflow.md)
 - [Daily Financial Reports](../reports/daily-financial-reports.md)

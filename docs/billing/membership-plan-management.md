@@ -1,18 +1,24 @@
 ---
-title: Membership Plan Management
+title: Memberships
 ---
 
-# Membership Plan Management
+# Memberships
 
 The `Memberships` module helps clinics define paid membership plans with duration, pricing, and category-based discounts.
 
 ## What users can do here
 
-- create membership plans
+- use `Add Membership`
 - review plan pricing and duration
 - manage category discount rules
 - review member and entitlement counts
 - update plan status
+
+## Main actions
+
+The page can show:
+
+- `Add Membership`
 
 ## What the plan list shows
 
@@ -30,5 +36,5 @@ Each plan can show:
 ## Related pages
 
 - [POS Checkout Workflow](./pos-checkout-workflow.md)
-- [Coupon Management](./coupon-management.md)
+- [Coupons](./coupon-management.md)
 - [Categories](../inventory/product-category-management.md)

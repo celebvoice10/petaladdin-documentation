@@ -52,6 +52,6 @@ Use this report when:
 
 ## Related pages
 
-- [Coupon Management](../billing/coupon-management.md)
-- [Membership Plan Management](../billing/membership-plan-management.md)
-- [Communication Logs](../admin/communication-logs.md)
+- [Coupons](../billing/coupon-management.md)
+- [Memberships](../billing/membership-plan-management.md)
+- [Communication](../admin/communication-logs.md)

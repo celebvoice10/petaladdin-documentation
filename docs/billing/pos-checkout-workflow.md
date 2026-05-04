@@ -122,5 +122,5 @@ When checkout succeeds, POS shows a receipt banner with:
 ## Related pages
 
 - [Invoices and Payments](./invoices-payments.md)
-- [Managing Pet Parents](../pet-parents/managing-pet-parents.md)
-- [Managing Pets](../pets/managing-pets.md)
+- [Pet Parents](../pet-parents/managing-pet-parents.md)
+- [Pets](../pets/managing-pets.md)

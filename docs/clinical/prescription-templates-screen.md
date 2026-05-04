@@ -1,8 +1,8 @@
 ---
-title: Prescription Templates Screen
+title: Prescription Templates
 ---
 
-# Prescription Templates Screen
+# Prescription Templates
 
 The `Prescription Templates` area lets clinics save reusable medication plans and apply them inside consultations.
 
@@ -10,7 +10,7 @@ The `Prescription Templates` area lets clinics save reusable medication plans an
 
 Quick guide:
 
-- `1` creates a new reusable medication template.
+- `1` opens `New Template` for a reusable medication plan.
 - `2` is the main list area where saved templates are reviewed.
 - `3` shows how many medication items are included in each template.
 - `4` indicates whether the template is active and available in consultations.
@@ -19,11 +19,17 @@ Quick guide:
 ## What users can do here
 
 - review existing templates
-- create a new template
+- use `New Template`
 - edit a template
 - activate or deactivate a template
 
 ## Template list screen
+
+The page can show:
+
+- `New Template`
+- `Edit`
+- `Deactivate`
 
 The list screen can show:
 
@@ -65,7 +71,7 @@ Quick guide:
 - `2` scopes the template to a species when needed.
 - `3` adds an optional diagnosis hint to explain when the template should be used.
 - `4` inserts additional medicine rows into the reusable treatment plan.
-- `5` saves the completed template for clinic-wide reuse.
+- `5` uses `Save Template` to save the completed template for clinic-wide reuse.
 
 ## Why templates matter
 

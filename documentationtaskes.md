@@ -52,46 +52,46 @@ Why this order:
 - [x] Front Desk Workflow
 - [x] Patient Profiles
 - [x] Dashboard Overview
-- [x] Managing Pet Parents
-- [x] Managing Pets
-- [x] Pet Profile Workspace
+- [x] Pet Parents
+- [x] Pets
+- [x] Pet Profile
 - [x] Consultations and Treatment Notes
 - [x] Invoices and Payments
 - [x] POS Checkout Workflow
-- [x] Invoice Management
+- [x] Billing
 - [x] Managing Medicines and Stock
 - [x] Doctor Profiles
-- [x] Certificate Workspace
-- [x] Product Catalog Management
-- [x] Purchase Management
-- [x] Stock Adjustment Management
-- [x] Supplier Management
-- [x] Product Category Management
+- [x] Certificates
+- [x] Inventory
+- [x] Purchases
+- [x] Adjustments
+- [x] Suppliers
+- [x] Categories
 - [x] Product Import Workflow
 - [x] Stock Adjustment Import Workflow
-- [x] Quotation Management
-- [x] Coupon Management
-- [x] Membership Plan Management
+- [x] Quotations
+- [x] Coupons
+- [x] Memberships
 - [x] Users and Roles
 - [x] Reports Overview
 - [x] Daily Financial Reports
-- [x] Vaccination Schedule Management
-- [x] Deworming Schedule Management
+- [x] Vaccinations
+- [x] Deworming
 - [x] Common Issues
 - [x] Passwords and Browser Support
 
 ### In Progress
 
-- [ ] Align docs more closely with real screen names, field labels, and buttons from each module
+- [x] Align docs more closely with real screen names, field labels, and buttons from each module
 - [x] Add screenshots and annotations for key workflows
 - [x] Add role-based task maps for receptionist, doctor, billing staff, and admin
 
 ### Not Started
 
 - [x] My Account documentation
-- [ ] Full certificates reference
-- [ ] Full Inventory documentation
-- [ ] Full Billing documentation
+- [x] Full certificates reference
+- [x] Full Inventory documentation
+- [x] Full Billing documentation
 - [x] Reports by report type
 - [x] Communication module documentation
 - [x] Settings documentation
@@ -139,16 +139,16 @@ These should be completed first because they match the main clinic flow.
 - [x] Stock Adjustments module
 - [x] Product Import workflow
 - [x] Stock Adjustment Import workflow
-- [x] Communication Logs module
-- [x] Clinic Settings module
+- [x] Communication module
+- [x] Settings module
 
 ## Priority 3: Reporting and Admin Reference
 
 - [x] Reports overview
 - [x] Daily financial reporting
-- [x] Finance report
+- [x] Billing report
 - [x] Promotions report
-- [x] Doctor performance report
+- [x] Staff performance report
 - [x] Appointments report
 - [x] Clinical report
 - [x] Inventory report
@@ -252,7 +252,7 @@ Write these as separate reference pages after the workflow pages are stable.
 - [x] Access Audit screen
 - [x] Clinics screens
 - [x] Settings screen
-- [x] Communication Logs screen
+- [x] Communication screen
 - [x] Subscription screen
 
 ## Recommended Writing Sequence
@@ -381,14 +381,14 @@ Observed important subflows from routes and views:
 - [x] Write `Pets`
 - [x] Write `Pet Profile`
 - [x] Write `POS Checkout Workflow`
-- [x] Write `Invoice Management`
-- [x] Write `Vaccination Schedule Management`
-- [x] Write `Deworming Schedule Management`
+- [x] Write `Billing`
+- [x] Write `Vaccinations`
+- [x] Write `Deworming`
 - [x] Write `Doctor Profiles`
-- [x] Write `Certificate Workspace`
-- [x] Write `Product Catalog Management`
-- [x] Write `Purchase Management`
-- [x] Write `Stock Adjustment Management`
+- [x] Write `Certificates`
+- [x] Write `Inventory`
+- [x] Write `Purchases`
+- [x] Write `Adjustments`
 - [x] Write `Suppliers`
 - [x] Write `Product Categories`
 - [x] Write `Product Import Workflow`
@@ -397,16 +397,16 @@ Observed important subflows from routes and views:
 - [x] Write `Coupons`
 - [x] Write `Membership Plans`
 - [x] Write `My Account`
-- [x] Write `Staff User Management`
+- [x] Write `Users`
 - [x] Write `Permission Roles`
 - [x] Write `Access Audit`
-- [x] Write `Clinic Management`
-- [x] Write `Clinic Settings`
-- [x] Write `Communication Logs`
-- [x] Write `Subscription Management`
-- [x] Write `Finance Report`
+- [x] Write `Clinics`
+- [x] Write `Settings`
+- [x] Write `Communication`
+- [x] Write `Subscription`
+- [x] Write `Billing Report`
 - [x] Write `Promotions Report`
-- [x] Write `Doctor Performance Report`
+- [x] Write `Staff Performance`
 - [x] Write `Appointments Report`
 - [x] Write `Clinical Report`
 - [x] Write `Inventory Report`

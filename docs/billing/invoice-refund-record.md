@@ -44,4 +44,4 @@ Open the refund record when:
 ## Related pages
 
 - [Refund Workflow](./refund-workflow.md)
-- [Invoice Management](./invoice-management.md)
+- [Billing](./invoice-management.md)

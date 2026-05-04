@@ -56,4 +56,4 @@ Use it when:
 ## Related pages
 
 - [Edit Pet Screen](./edit-pet-screen.md)
-- [Managing Pets](./managing-pets.md)
+- [Pets](./managing-pets.md)

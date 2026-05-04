@@ -58,4 +58,4 @@ Use it when:
 ## Related pages
 
 - [Edit Pet Parent Screen](./edit-pet-parent-screen.md)
-- [Managing Pet Parents](./managing-pet-parents.md)
+- [Pet Parents](./managing-pet-parents.md)

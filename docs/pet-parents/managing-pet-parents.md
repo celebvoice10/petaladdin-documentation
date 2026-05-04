@@ -64,6 +64,6 @@ Confirm owner phone and email during every visit. Small updates at check-in help
 
 ## Related pages
 
-- [Managing Pets](../pets/managing-pets.md)
+- [Pets](../pets/managing-pets.md)
 - [Patient Check-In and Check-Out](../appointments/check-in-check-out.md)
 - [Pet Profile](../patient-records/pet-profile-workspace.md)

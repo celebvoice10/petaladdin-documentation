@@ -44,6 +44,6 @@ Check the selected pet and certificate type carefully before generating the docu
 
 ## Related pages
 
-- [Pet Profile Workspace](../patient-records/pet-profile-workspace.md)
+- [Pet Profile](../patient-records/pet-profile-workspace.md)
 - [Doctor Profiles](./doctor-profiles.md)
-- [Vaccination Schedule Management](./vaccination-schedule-management.md)
+- [Vaccinations](./vaccination-schedule-management.md)

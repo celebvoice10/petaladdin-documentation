@@ -8,7 +8,7 @@ Appointments are at the center of day-to-day clinic operations. Petaladdin helps
 
 ## Common tasks
 
-- book a new appointment
+- use `Schedule`
 - reschedule an existing visit
 - record cancellations or no-shows
 - check the daily calendar for doctor availability
@@ -16,10 +16,10 @@ Appointments are at the center of day-to-day clinic operations. Petaladdin helps
 ## Booking a new appointment
 
 1. Open the appointments or calendar section.
-2. Select the required date and time slot.
+2. Select `Schedule` or choose the required date and time slot.
 3. Choose the client and patient.
 4. Select the visit type or service.
-5. Save the appointment.
+5. Select `Save Appointment`.
 
 ## Rescheduling or cancelling
 
@@ -27,7 +27,7 @@ When a client requests a change:
 
 1. Open the existing appointment.
 2. Update the date, time, or assigned doctor as needed.
-3. Save the changes.
+3. Select `Save Appointment`.
 4. If the appointment is cancelled, record the reason when your clinic workflow requires it.
 
 ## Best practices

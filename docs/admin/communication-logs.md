@@ -55,5 +55,5 @@ This clinic help center covers the logs page used by clinic teams. Super-admin c
 
 ## Related pages
 
-- [Membership Plan Management](../billing/membership-plan-management.md)
+- [Memberships](../billing/membership-plan-management.md)
 - [Promotions Report](../reports/promotions-report.md)

@@ -35,4 +35,4 @@ Update phone, email, and membership dates carefully because these affect reminde
 ## Related pages
 
 - [Create Pet Parent Screen](./create-pet-parent-screen.md)
-- [Managing Pet Parents](./managing-pet-parents.md)
+- [Pet Parents](./managing-pet-parents.md)
