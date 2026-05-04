@@ -29,3 +29,5 @@ Use this help center to learn the core workflows your team performs every day.
 - tracking invoices, balances, and payments
 - reviewing reports for operational visibility
 - assigning staff access based on role
+
+Reach our helpline for more information
