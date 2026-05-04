@@ -1,0 +1,41 @@
+:root {
+  --ifm-color-primary: #2f7d69;
+  --ifm-color-primary-dark: #2a705e;
+  --ifm-color-primary-darker: #286a59;
+  --ifm-color-primary-darkest: #21574a;
+  --ifm-color-primary-light: #348a74;
+  --ifm-color-primary-lighter: #379179;
+  --ifm-color-primary-lightest: #41a086;
+  --ifm-color-secondary: #f3eadb;
+  --ifm-background-color: #fcfcfa;
+  --ifm-navbar-background-color: rgba(252, 252, 250, 0.92);
+  --ifm-footer-background-color: #18332c;
+  --ifm-font-family-base: 'Segoe UI', 'Trebuchet MS', sans-serif;
+  --ifm-heading-font-family: Georgia, 'Times New Roman', serif;
+  --ifm-code-font-size: 95%;
+  --ifm-global-radius: 16px;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #6bc4ad;
+  --ifm-color-primary-dark: #54b99f;
+  --ifm-color-primary-darker: #49b398;
+  --ifm-color-primary-darkest: #35967d;
+  --ifm-color-primary-light: #82ceb9;
+  --ifm-color-primary-lighter: #8fd3bf;
+  --ifm-color-primary-lightest: #b4e3d7;
+  --ifm-background-color: #10231e;
+  --ifm-navbar-background-color: rgba(16, 35, 30, 0.9);
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.navbar {
+  backdrop-filter: blur(10px);
+}
+
+.button.button--secondary {
+  border-color: rgba(47, 125, 105, 0.22);
+  background: rgba(255, 255, 255, 0.76);
+  color: #21493d;
+}

@@ -1,0 +1,55 @@
+.heroBanner {
+  padding: 6rem 0 5rem;
+  position: relative;
+  overflow: hidden;
+  background:
+    radial-gradient(circle at top left, rgba(110, 189, 160, 0.28), transparent 32%),
+    radial-gradient(circle at bottom right, rgba(242, 173, 94, 0.24), transparent 28%),
+    linear-gradient(180deg, #f6fbf8 0%, #fff9f1 100%);
+}
+
+.heroInner {
+  max-width: 780px;
+}
+
+.kicker {
+  display: inline-block;
+  margin-bottom: 1rem;
+  padding: 0.45rem 0.8rem;
+  border: 1px solid rgba(10, 79, 64, 0.12);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.78);
+  color: #2d6257;
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.heroTitle {
+  margin-bottom: 1rem;
+  color: #17362d;
+  font-size: clamp(2.8rem, 5vw, 4.6rem);
+  line-height: 1.05;
+}
+
+.heroSubtitle {
+  max-width: 640px;
+  margin-bottom: 1.8rem;
+  color: #375a50;
+  font-size: 1.15rem;
+  line-height: 1.7;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 4rem 0 3rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  flex-wrap: wrap;
+}
