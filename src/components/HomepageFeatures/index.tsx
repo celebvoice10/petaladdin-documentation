@@ -1,38 +1,57 @@
 import type {ReactNode} from 'react';
 import clsx from 'clsx';
+import Link from '@docusaurus/Link';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
 type FeatureItem = {
   title: string;
+  label: string;
+  href: string;
   description: ReactNode;
 };
 
 const featureList: FeatureItem[] = [
   {
-    title: 'Role-based guidance',
+    title: 'Front desk',
+    label: 'Start reception workflow',
+    href: '/docs/workflows/front-desk-workflow',
     description:
-      'Help different teams find the right workflow quickly, from reception and doctors to billing and administrators.',
+      'Register pet parents, create pet records, schedule appointments, and manage check-in and check-out.',
   },
   {
-    title: 'Day-to-day operations',
+    title: 'Doctors and nurses',
+    label: 'Open clinical workflow',
+    href: '/docs/workflows/doctor-workflow',
     description:
-      'Cover appointments, patient records, consultations, stock handling, and billing in one organized help center.',
+      'Review patient history, write consultation notes, manage prescriptions, and track vaccinations or deworming.',
   },
   {
-    title: 'Support-ready content',
+    title: 'Billing and inventory',
+    label: 'View billing workflow',
+    href: '/docs/workflows/billing-workflow',
     description:
-      'Give clinic teams clear step-by-step instructions they can use during live operations, training, and troubleshooting.',
+      'Create invoices, receive payments, run POS checkout, manage products, purchases, and stock adjustments.',
+  },
+  {
+    title: 'Clinic administration',
+    label: 'Open admin workflow',
+    href: '/docs/workflows/clinic-admin-workflow',
+    description:
+      'Manage users, roles, clinic settings, subscriptions, reports, access audits, and communication logs.',
   },
 ];
 
-function Feature({title, description}: FeatureItem) {
+function Feature({title, label, href, description}: FeatureItem) {
   return (
-    <div className={clsx('col col--4', styles.featureColumn)}>
+    <div className={clsx('col col--3', styles.featureColumn)}>
       <div className={styles.card}>
-        <div className={styles.badge}>Guide</div>
+        <div className={styles.badge}>Role guide</div>
         <Heading as="h3">{title}</Heading>
         <p>{description}</p>
+        <Link className={styles.cardLink} to={href}>
+          {label}
+        </Link>
       </div>
     </div>
   );
@@ -43,8 +62,8 @@ export default function HomepageFeatures(): ReactNode {
     <section className={styles.features}>
       <div className="container">
         <div className={styles.sectionHeading}>
-          <p className={styles.sectionLabel}>What this site covers</p>
-          <Heading as="h2">A help center built around real clinic workflows</Heading>
+          <p className={styles.sectionLabel}>Start by team</p>
+          <Heading as="h2">Find the workflow your clinic team needs first</Heading>
         </div>
         <div className="row">
           {featureList.map((props, idx) => (

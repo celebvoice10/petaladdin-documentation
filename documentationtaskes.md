@@ -184,10 +184,6 @@ Write these as separate reference pages after the workflow pages are stable.
 
 ### Clinical
 
-- [ ] Consultations list screen
-- [ ] Create Consultation screen
-- [ ] Edit Consultation screen
-- [ ] Consultation details screen
 - [x] Consultations list screen
 - [x] Create Consultation screen
 - [x] Edit Consultation screen
@@ -201,10 +197,7 @@ Write these as separate reference pages after the workflow pages are stable.
 
 - [x] POS screen
 - [x] Invoices list screen
-- [ ] Create Invoice screen
-- [ ] Edit Invoice screen
 - [x] Invoice details screen
-- [ ] Invoice print screen
 - [x] Create Invoice screen
 - [x] Edit Invoice screen
 - [x] Invoice print screen
@@ -217,24 +210,16 @@ Write these as separate reference pages after the workflow pages are stable.
 
 - [x] Product Categories screens
 - [x] Products list screen
-- [ ] Create Product screen
-- [ ] Edit Product screen
-- [ ] Product details screen
 - [x] Create Product screen
 - [x] Edit Product screen
 - [x] Product details screen
 - [x] Product import screen
 - [x] Suppliers screens
 - [x] Purchases list screen
-- [ ] Create Purchase screen
-- [ ] Edit Purchase screen
-- [ ] Purchase details screen
 - [x] Create Purchase screen
 - [x] Edit Purchase screen
 - [x] Purchase details screen
 - [x] Stock Adjustments list screen
-- [ ] Create Stock Adjustment screen
-- [ ] Stock Adjustment details screen
 - [x] Create Stock Adjustment screen
 - [x] Stock Adjustment details screen
 - [x] Stock Adjustment import screen
@@ -370,9 +355,11 @@ Observed important subflows from routes and views:
 - [x] Communication Settings documentation for super admin usage
 - [x] Pet Parent Portal documentation in the main clinic staff help center
 
-## Separate Decision Later
+## Remaining Documentation Work
 
-- [ ] Decide whether Pet Parent Portal should have its own lightweight end-user guide set outside the clinic staff documentation tree
+- [ ] Review screenshots after future UI changes so images and labels do not become outdated
+- [ ] Decide whether to create a separate Pet Parent Portal guide outside this clinic staff help center
+- [ ] Add short FAQ pages only after real support questions are collected from clinic users
 
 ## Next Recommended Documentation Tasks
 
