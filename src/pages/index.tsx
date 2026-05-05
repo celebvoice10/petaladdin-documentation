@@ -2,11 +2,34 @@ import type {ReactNode} from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import Head from '@docusaurus/Head';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
 
 import styles from './index.module.css';
+
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'Petaladdin Docs',
+  url: 'https://docs.petaladdin.com/',
+  description:
+    'User guides and workflow documentation for veterinary clinics and hospitals using Petaladdin practice management software.',
+  publisher: {
+    '@type': 'Organization',
+    name: 'Petaladdin',
+  },
+  audience: {
+    '@type': 'Audience',
+    audienceType: 'Veterinary clinics and hospitals',
+  },
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: 'https://docs.petaladdin.com/search?q={search_term_string}',
+    'query-input': 'required name=search_term_string',
+  },
+};
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -44,8 +67,25 @@ export default function Home(): ReactNode {
 
   return (
     <Layout
-      title={siteConfig.title}
-      description="User documentation for clinics and hospitals using Petaladdin.">
+      title="Petaladdin User Guides for Veterinary Clinics"
+      description="User guides and workflow documentation for veterinary clinics and hospitals using Petaladdin practice management software.">
+      <Head>
+        <meta property="og:title" content="Petaladdin User Guides for Veterinary Clinics" />
+        <meta
+          property="og:description"
+          content="Learn Petaladdin workflows for front desk, doctors, billing, inventory, reports, and clinic administration."
+        />
+        <meta property="og:url" content="https://docs.petaladdin.com/" />
+        <meta
+          name="twitter:title"
+          content="Petaladdin User Guides for Veterinary Clinics"
+        />
+        <meta
+          name="twitter:description"
+          content="Workflow-based help for veterinary clinics and hospitals using Petaladdin."
+        />
+        <script type="application/ld+json">{JSON.stringify(structuredData)}</script>
+      </Head>
       <HomepageHeader />
       <main>
         <HomepageFeatures />

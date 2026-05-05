@@ -19,6 +19,38 @@ const config: Config = {
   title: 'Petaladdin Docs',
   tagline: 'User guides for veterinary clinics and hospitals using Petaladdin.',
   favicon: 'img/favicon.ico',
+  titleDelimiter: '|',
+  headTags: [
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'keywords',
+        content:
+          'Petaladdin documentation, veterinary practice management software, clinic management software, hospital management software, veterinary clinic help center, appointment scheduling, pet patient records, veterinary billing, clinic inventory',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'robots',
+        content: 'index, follow',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:site_name',
+        content: 'Petaladdin Docs',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:type',
+        content: 'website',
+      },
+    },
+  ],
   future: {
     v4: true,
   },
@@ -43,6 +75,11 @@ const config: Config = {
           editUrl: `https://github.com/${organizationName}/${projectName}/tree/main/`,
         },
         blog: false,
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.7,
+          filename: 'sitemap.xml',
+        },
         theme: {
           customCss: './src/css/custom.css',
         },

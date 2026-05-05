@@ -1,5 +1,6 @@
 ---
 title: Doctor Workflow
+description: Learn how doctors and clinical staff use Petaladdin for patient history, consultations, treatment notes, prescriptions, vaccinations, and deworming.
 ---
 
 # Doctor Workflow

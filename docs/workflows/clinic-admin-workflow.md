@@ -1,5 +1,6 @@
 ---
 title: Clinic Admin Workflow
+description: Learn how clinic administrators use Petaladdin to manage staff access, roles, settings, subscriptions, communication logs, reports, and clinic operations.
 ---
 
 # Clinic Admin Workflow

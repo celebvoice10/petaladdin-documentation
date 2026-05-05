@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Welcome to Petaladdin
+description: Start here for Petaladdin user documentation covering clinic workflows, appointments, patient records, billing, inventory, reports, and administration.
 ---
 
 # Welcome to Petaladdin

@@ -1,5 +1,6 @@
 ---
 title: Front Desk Workflow
+description: Learn the Petaladdin front desk workflow for reception teams, including pet parent registration, appointments, check-in, check-out, and daily queue handling.
 ---
 
 # Front Desk Workflow
