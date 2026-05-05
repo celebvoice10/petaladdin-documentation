@@ -1,6 +1,13 @@
 ---
-title: Daily Financial Reports
+sidebar_label: "Daily Financial Reports"
+title: "Daily Financial Reports Guide for Petaladdin"
+description: "Learn how billing and admin teams use daily financial reports in Petaladdin to review collections, invoices, payments, and totals."
+keywords:
+  - "daily financial reports"
+  - "billing reports"
+  - "payment totals"
 ---
+
 
 # Daily Financial Reports
 

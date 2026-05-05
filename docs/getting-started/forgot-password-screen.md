@@ -1,6 +1,13 @@
 ---
-title: Forgot Password Screen
+sidebar_label: "Forgot Password Screen"
+title: "Forgot Password Screen Guide for Petaladdin"
+description: "Learn how users start password recovery in Petaladdin, enter account details, and request a reset when they cannot sign in."
+keywords:
+  - "forgot password"
+  - "password recovery"
+  - "login help"
 ---
+
 
 # Forgot Password Screen
 

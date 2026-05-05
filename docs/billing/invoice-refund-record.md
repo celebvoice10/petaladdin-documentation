@@ -1,6 +1,13 @@
 ---
-title: Invoice Refund Record
+sidebar_label: "Invoice Refund Record"
+title: "Invoice Refund Record Guide for Petaladdin"
+description: "Learn how billing staff review invoice refund records in Petaladdin and confirm refund amounts, reasons, and related invoice details."
+keywords:
+  - "invoice refund"
+  - "refund record"
+  - "billing refund"
 ---
+
 
 # Invoice Refund Record
 

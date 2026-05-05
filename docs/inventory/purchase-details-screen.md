@@ -1,6 +1,13 @@
 ---
-title: Purchase Details Screen
+sidebar_label: "Purchase Details Screen"
+title: "Purchase Details Screen Guide for Petaladdin"
+description: "Learn how inventory teams review purchase details in Petaladdin, confirm supplier information, item quantities, costs, and receiving status."
+keywords:
+  - "purchase details"
+  - "supplier purchase"
+  - "stock receiving"
 ---
+
 
 # Purchase Details Screen
 

@@ -1,6 +1,13 @@
 ---
-title: Reports
+sidebar_label: "Reports"
+title: "Reports Guide for Petaladdin Clinic Admins"
+description: "Learn how Petaladdin reports help clinic administrators review billing, appointments, clinical work, inventory, promotions, and staff activity."
+keywords:
+  - "reports overview"
+  - "clinic reports"
+  - "admin reporting"
 ---
+
 
 # Reports
 

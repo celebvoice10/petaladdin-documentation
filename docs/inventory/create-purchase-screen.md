@@ -1,6 +1,13 @@
 ---
-title: Create Purchase Screen
+sidebar_label: "Create Purchase Screen"
+title: "Create Purchase Screen Guide for Petaladdin"
+description: "Learn how inventory teams create purchase records in Petaladdin, add supplier details, enter items, and track stock receiving."
+keywords:
+  - "create purchase"
+  - "purchase record"
+  - "stock receiving"
 ---
+
 
 # Create Purchase Screen
 

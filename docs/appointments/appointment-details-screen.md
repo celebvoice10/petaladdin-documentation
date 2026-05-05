@@ -1,6 +1,13 @@
 ---
-title: Appointment Details Screen
+sidebar_label: "Appointment Details Screen"
+title: "Appointment Details Screen Guide for Petaladdin"
+description: "Learn how to read the Petaladdin appointment details screen, review visit information, and confirm the next action for a patient visit."
+keywords:
+  - "appointment details"
+  - "visit information"
+  - "appointment workflow"
 ---
+
 
 # Appointment Details Screen
 

@@ -1,6 +1,13 @@
 ---
-title: Managing Medicines and Stock
+sidebar_label: "Managing Medicines and Stock"
+title: "Medicine and Stock Management in Petaladdin"
+description: "Learn how clinic teams manage medicines and stock in Petaladdin, including products, suppliers, purchases, adjustments, and imports."
+keywords:
+  - "medicine stock"
+  - "inventory management"
+  - "clinic products"
 ---
+
 
 # Managing Medicines and Stock
 

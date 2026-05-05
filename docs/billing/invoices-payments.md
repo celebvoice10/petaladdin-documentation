@@ -1,6 +1,13 @@
 ---
-title: Invoices and Payments
+sidebar_label: "Invoices and Payments"
+title: "Invoices and Payments Guide for Petaladdin"
+description: "Learn how clinic teams manage invoices and payments in Petaladdin, including balances, collections, receipts, and payment status."
+keywords:
+  - "invoices and payments"
+  - "payment collection"
+  - "clinic billing"
 ---
+
 
 # Invoices and Payments
 

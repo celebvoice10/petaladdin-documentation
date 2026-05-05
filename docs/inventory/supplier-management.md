@@ -1,6 +1,13 @@
 ---
-title: Suppliers
+sidebar_label: "Suppliers"
+title: "Supplier Management Guide for Petaladdin"
+description: "Learn how inventory teams manage suppliers in Petaladdin for purchase records, stock receiving, contact details, and vendor history."
+keywords:
+  - "supplier management"
+  - "inventory suppliers"
+  - "vendor records"
 ---
+
 
 # Suppliers
 

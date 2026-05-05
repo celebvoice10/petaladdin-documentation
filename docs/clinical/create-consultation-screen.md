@@ -1,6 +1,13 @@
 ---
-title: Create Consultation Screen
+sidebar_label: "Create Consultation Screen"
+title: "Create Consultation Screen Guide for Petaladdin"
+description: "Learn how doctors create consultations in Petaladdin, select patient context, enter clinical notes, and save treatment information."
+keywords:
+  - "create consultation"
+  - "clinical notes"
+  - "doctor workflow"
 ---
+
 
 # Create Consultation Screen
 

@@ -1,6 +1,13 @@
 ---
-title: Patient Check-In and Check-Out
+sidebar_label: "Patient Check-In and Check-Out"
+title: "Patient Check-In and Check-Out in Petaladdin"
+description: "Learn how front desk staff check patients in and out in Petaladdin, update visit status, and keep the clinic queue moving."
+keywords:
+  - "patient check in"
+  - "patient check out"
+  - "front desk workflow"
 ---
+
 
 # Patient Check-In and Check-Out
 

@@ -1,6 +1,13 @@
 ---
-title: Refund Workflow
+sidebar_label: "Refund Workflow"
+title: "Refund Workflow Guide for Petaladdin Billing"
+description: "Learn how billing staff process refunds in Petaladdin, review invoice context, record refund details, and maintain accurate accounts."
+keywords:
+  - "refund workflow"
+  - "billing refunds"
+  - "invoice refund"
 ---
+
 
 # Refund Workflow
 

@@ -1,6 +1,13 @@
 ---
-title: Clinic Setup
+sidebar_label: "Clinic Setup"
+title: "Clinic Setup Guide for Petaladdin Admins"
+description: "Learn how clinic administrators set up Petaladdin for clinic information, staff access, workflow readiness, and daily operations."
+keywords:
+  - "clinic setup"
+  - "Petaladdin setup"
+  - "clinic admin"
 ---
+
 
 # Clinic Setup
 

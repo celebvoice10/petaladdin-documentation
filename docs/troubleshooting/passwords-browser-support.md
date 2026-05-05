@@ -1,6 +1,13 @@
 ---
-title: Passwords and Browser Support
+sidebar_label: "Passwords and Browser Support"
+title: "Password and Browser Support for Petaladdin"
+description: "Learn how to resolve Petaladdin password, browser, cache, and access issues so clinic users can sign in and work reliably."
+keywords:
+  - "password support"
+  - "browser support"
+  - "login troubleshooting"
 ---
+
 
 # Passwords and Browser Support
 

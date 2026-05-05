@@ -1,6 +1,13 @@
 ---
-title: Consultation Details Screen
+sidebar_label: "Consultation Details Screen"
+title: "Consultation Details Screen Guide for Petaladdin"
+description: "Learn how doctors review consultation details in Petaladdin, including clinical notes, diagnosis, treatment, and visit information."
+keywords:
+  - "consultation details"
+  - "clinical notes"
+  - "patient visit"
 ---
+
 
 # Consultation Details Screen
 

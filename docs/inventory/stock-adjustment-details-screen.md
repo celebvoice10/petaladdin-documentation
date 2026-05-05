@@ -1,6 +1,13 @@
 ---
-title: Stock Adjustment Details Screen
+sidebar_label: "Stock Adjustment Details Screen"
+title: "Stock Adjustment Details Screen Guide"
+description: "Learn how inventory teams review stock adjustment details in Petaladdin, including adjusted items, quantities, reasons, and audit context."
+keywords:
+  - "stock adjustment details"
+  - "inventory audit"
+  - "stock correction"
 ---
+
 
 # Stock Adjustment Details Screen
 

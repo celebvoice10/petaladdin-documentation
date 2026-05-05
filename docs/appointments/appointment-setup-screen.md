@@ -1,6 +1,13 @@
 ---
-title: Appointment Setup Screen
+sidebar_label: "Appointment Setup Screen"
+title: "Appointment Setup Screen Guide for Clinics"
+description: "Learn how to configure appointment setup options in Petaladdin so clinic schedules, visit types, and booking workflows stay organized."
+keywords:
+  - "appointment setup"
+  - "clinic schedule"
+  - "visit types"
 ---
+
 
 # Appointment Setup Screen
 

@@ -1,6 +1,13 @@
 ---
-title: Inventory Report
+sidebar_label: "Inventory Report"
+title: "Inventory Report Guide for Petaladdin Clinics"
+description: "Learn how clinic teams use the inventory report in Petaladdin to review stock movement, item status, purchase activity, and inventory trends."
+keywords:
+  - "inventory report"
+  - "stock report"
+  - "inventory trends"
 ---
+
 
 # Inventory Report
 

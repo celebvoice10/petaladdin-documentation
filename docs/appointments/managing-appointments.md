@@ -1,6 +1,13 @@
 ---
-title: Managing Appointments
+sidebar_label: "Managing Appointments"
+title: "Managing Appointments Guide for Petaladdin"
+description: "Learn how clinic teams manage Petaladdin appointments from booking and scheduling to status updates, check-in, and follow-up."
+keywords:
+  - "managing appointments"
+  - "appointment scheduling"
+  - "clinic visits"
 ---
+
 
 # Managing Appointments
 

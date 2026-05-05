@@ -1,6 +1,13 @@
 ---
-title: Adjustments
+sidebar_label: "Adjustments"
+title: "Stock Adjustment Management Guide for Clinics"
+description: "Learn how inventory teams manage stock adjustments in Petaladdin to correct inventory counts, record reasons, and maintain accurate stock."
+keywords:
+  - "stock adjustments"
+  - "inventory corrections"
+  - "stock management"
 ---
+
 
 # Adjustments
 

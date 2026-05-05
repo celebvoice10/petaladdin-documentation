@@ -1,6 +1,13 @@
 ---
-title: Deworming
+sidebar_label: "Deworming"
+title: "Deworming Schedule Guide for Petaladdin"
+description: "Learn how clinical teams manage deworming schedules in Petaladdin, track due dates, record activity, and support preventive care."
+keywords:
+  - "deworming schedule"
+  - "preventive care"
+  - "clinical workflow"
 ---
+
 
 # Deworming
 

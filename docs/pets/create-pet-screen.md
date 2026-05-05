@@ -1,6 +1,13 @@
 ---
-title: Create Pet Screen
+sidebar_label: "Create Pet Screen"
+title: "Create Pet Screen Guide for Petaladdin"
+description: "Learn how reception teams create pet records in Petaladdin, enter patient details, link owners, and prepare profiles for appointments."
+keywords:
+  - "create pet"
+  - "pet record"
+  - "patient registration"
 ---
+
 
 # Create Pet Screen
 

@@ -1,6 +1,13 @@
 ---
-title: Clinic Switcher
+sidebar_label: "Clinic Switcher"
+title: "Clinic Switcher Guide for Multi-Clinic Teams"
+description: "Learn how users switch between assigned clinics in Petaladdin and confirm they are working in the correct clinic account."
+keywords:
+  - "clinic switcher"
+  - "multi clinic"
+  - "clinic account"
 ---
+
 
 # Clinic Switcher
 

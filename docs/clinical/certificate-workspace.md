@@ -1,6 +1,13 @@
 ---
-title: Certificates
+sidebar_label: "Certificates"
+title: "Certificate Workspace Guide for Petaladdin"
+description: "Learn how clinical teams use the Petaladdin certificate workspace to prepare, manage, and issue clinic certificates for patients."
+keywords:
+  - "certificates"
+  - "clinical certificates"
+  - "pet certificates"
 ---
+
 
 # Certificates
 

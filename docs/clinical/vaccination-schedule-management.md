@@ -1,6 +1,13 @@
 ---
-title: Vaccinations
+sidebar_label: "Vaccinations"
+title: "Vaccination Schedule Guide for Petaladdin"
+description: "Learn how clinical teams manage vaccination schedules in Petaladdin, track due vaccines, update records, and support preventive care."
+keywords:
+  - "vaccination schedule"
+  - "vaccine records"
+  - "preventive care"
 ---
+
 
 # Vaccinations
 

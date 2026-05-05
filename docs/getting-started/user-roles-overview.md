@@ -1,6 +1,13 @@
 ---
-title: User Roles Overview
+sidebar_label: "User Roles Overview"
+title: "User Roles Guide for Petaladdin Clinics"
+description: "Learn how Petaladdin user roles support clinic workflows by giving reception, doctors, billing staff, and admins the right access."
+keywords:
+  - "user roles"
+  - "clinic roles"
+  - "staff access"
 ---
+
 
 # User Roles Overview
 

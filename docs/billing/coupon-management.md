@@ -1,6 +1,13 @@
 ---
-title: Coupons
+sidebar_label: "Coupons"
+title: "Coupon Management Guide for Petaladdin Billing"
+description: "Learn how billing teams manage coupons in Petaladdin for discounts, promotions, invoice use, and checkout workflows."
+keywords:
+  - "coupon management"
+  - "billing discounts"
+  - "clinic promotions"
 ---
+
 
 # Coupons
 

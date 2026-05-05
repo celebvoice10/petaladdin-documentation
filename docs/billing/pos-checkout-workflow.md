@@ -1,6 +1,13 @@
 ---
-title: POS Checkout Workflow
+sidebar_label: "POS Checkout Workflow"
+title: "POS Checkout Workflow Guide for Petaladdin"
+description: "Learn how billing staff use Petaladdin POS checkout to add items, review totals, apply discounts, and complete customer payments."
+keywords:
+  - "POS checkout"
+  - "point of sale"
+  - "billing workflow"
 ---
+
 
 # POS Checkout Workflow
 

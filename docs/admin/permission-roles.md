@@ -1,6 +1,13 @@
 ---
-title: Permission Roles
+sidebar_label: "Permission Roles"
+title: "Permission Roles Guide for Clinic Access Control"
+description: "Learn how clinic administrators manage permission roles in Petaladdin to control staff access across clinic workflows and screens."
+keywords:
+  - "permission roles"
+  - "access control"
+  - "staff permissions"
 ---
+
 
 # Permission Roles
 

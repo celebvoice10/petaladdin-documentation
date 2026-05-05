@@ -1,6 +1,13 @@
 ---
-title: Product Details Screen
+sidebar_label: "Product Details Screen"
+title: "Product Details Screen Guide for Petaladdin"
+description: "Learn how inventory teams read product details in Petaladdin, review pricing, stock status, supplier context, and item history."
+keywords:
+  - "product details"
+  - "inventory item"
+  - "stock status"
 ---
+
 
 # Product Details Screen
 

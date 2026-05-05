@@ -1,6 +1,13 @@
 ---
-title: Prescription Templates
+sidebar_label: "Prescription Templates"
+title: "Prescription Templates Guide for Petaladdin"
+description: "Learn how doctors manage prescription templates in Petaladdin to standardize medication instructions and speed up consultation notes."
+keywords:
+  - "prescription templates"
+  - "doctor workflow"
+  - "medication instructions"
 ---
+
 
 # Prescription Templates
 

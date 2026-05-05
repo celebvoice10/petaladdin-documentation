@@ -1,6 +1,13 @@
 ---
-title: Login Screen
+sidebar_label: "Login Screen"
+title: "Login Screen Guide for Petaladdin Users"
+description: "Learn how clinic users use the Petaladdin login screen, enter credentials, confirm access, and troubleshoot common sign-in issues."
+keywords:
+  - "login screen"
+  - "Petaladdin login"
+  - "sign in help"
 ---
+
 
 # Login Screen
 

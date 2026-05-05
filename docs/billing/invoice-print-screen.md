@@ -1,6 +1,13 @@
 ---
-title: Invoice Print Screen
+sidebar_label: "Invoice Print Screen"
+title: "Invoice Print Screen Guide for Petaladdin"
+description: "Learn how to review and print Petaladdin invoices for clients, including totals, payment details, clinic information, and itemized charges."
+keywords:
+  - "invoice print"
+  - "print invoice"
+  - "billing receipt"
 ---
+
 
 # Invoice Print Screen
 

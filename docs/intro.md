@@ -1,8 +1,14 @@
 ---
 sidebar_position: 1
-title: Welcome to Petaladdin
-description: Start here for Petaladdin user documentation covering clinic workflows, appointments, patient records, billing, inventory, reports, and administration.
+sidebar_label: "Welcome to Petaladdin"
+title: "Petaladdin Help Center for Veterinary Clinics"
+description: "Welcome to Petaladdin documentation for clinic teams, covering appointments, patient records, billing, inventory, reports, and admin workflows."
+keywords:
+  - "Petaladdin help center"
+  - "veterinary clinic software"
+  - "clinic workflow guide"
 ---
+
 
 # Welcome to Petaladdin
 

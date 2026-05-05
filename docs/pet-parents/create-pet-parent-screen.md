@@ -1,6 +1,13 @@
 ---
-title: Create Pet Parent Screen
+sidebar_label: "Create Pet Parent Screen"
+title: "Create Pet Parent Screen Guide for Petaladdin"
+description: "Learn how reception teams create pet parent records in Petaladdin, enter contact details, and prepare client profiles for pets and visits."
+keywords:
+  - "create pet parent"
+  - "client record"
+  - "front desk"
 ---
+
 
 # Create Pet Parent Screen
 

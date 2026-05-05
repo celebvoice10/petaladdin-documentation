@@ -1,6 +1,13 @@
 ---
-title: Patient Profiles
+sidebar_label: "Patient Profiles"
+title: "Patient Profiles Guide for Petaladdin Clinics"
+description: "Learn how clinic teams use patient profiles in Petaladdin to review pet, owner, appointment, consultation, and billing information."
+keywords:
+  - "patient profiles"
+  - "pet records"
+  - "client records"
 ---
+
 
 # Patient Profiles
 

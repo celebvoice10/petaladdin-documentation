@@ -1,6 +1,13 @@
 ---
-title: Pet Profile
+sidebar_label: "Pet Profile"
+title: "Pet Profile Workspace Guide for Petaladdin"
+description: "Learn how clinic teams use the Petaladdin pet profile workspace to review medical history, visits, owner details, and patient activity."
+keywords:
+  - "pet profile"
+  - "medical history"
+  - "patient workspace"
 ---
+
 
 # Pet Profile
 

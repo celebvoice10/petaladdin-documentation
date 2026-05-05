@@ -1,6 +1,13 @@
 ---
-title: Pets
+sidebar_label: "Pets"
+title: "Pet Management Guide for Petaladdin Clinics"
+description: "Learn how clinic teams manage pets in Petaladdin, including patient records, owner links, appointments, and medical profile context."
+keywords:
+  - "pet management"
+  - "patient records"
+  - "pet profiles"
 ---
+
 
 # Pets
 

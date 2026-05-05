@@ -1,6 +1,13 @@
 ---
-title: Settings
+sidebar_label: "Settings"
+title: "Clinic Settings Guide for Petaladdin Setup"
+description: "Learn how to review and maintain Petaladdin clinic settings so appointment, billing, inventory, and staff workflows stay accurate."
+keywords:
+  - "clinic settings"
+  - "Petaladdin setup"
+  - "clinic configuration"
 ---
+
 
 # Settings
 

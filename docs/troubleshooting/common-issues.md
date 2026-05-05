@@ -1,6 +1,13 @@
 ---
-title: Common Issues
+sidebar_label: "Common Issues"
+title: "Common Issues Guide for Petaladdin Users"
+description: "Learn how clinic staff troubleshoot common Petaladdin issues with login access, appointments, billing, inventory, reports, and workflow use."
+keywords:
+  - "common issues"
+  - "troubleshooting"
+  - "user help"
 ---
+
 
 # Common Issues
 

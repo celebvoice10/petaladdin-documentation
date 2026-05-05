@@ -1,6 +1,13 @@
 ---
-title: Promotions Report
+sidebar_label: "Promotions Report"
+title: "Promotions Report Guide for Petaladdin Billing"
+description: "Learn how billing teams use the promotions report in Petaladdin to review coupon usage, discounts, campaign activity, and revenue impact."
+keywords:
+  - "promotions report"
+  - "coupon reporting"
+  - "discount tracking"
 ---
+
 
 # Promotions Report
 

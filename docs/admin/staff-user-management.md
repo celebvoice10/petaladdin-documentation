@@ -1,6 +1,13 @@
 ---
-title: Users
+sidebar_label: "Users"
+title: "Staff User Management Guide for Petaladdin"
+description: "Learn how clinic administrators add, update, disable, and manage staff user accounts in Petaladdin for daily clinic operations."
+keywords:
+  - "staff users"
+  - "user management"
+  - "clinic staff"
 ---
+
 
 # Users
 

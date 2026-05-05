@@ -1,7 +1,13 @@
 ---
-title: Billing Workflow
-description: Learn the Petaladdin billing workflow for invoices, POS checkout, payments, refunds, quotations, memberships, coupons, and inventory-linked billing.
+sidebar_label: "Billing Workflow"
+title: "Billing Workflow Guide for Petaladdin Clinics"
+description: "Learn the Petaladdin billing workflow for invoices, POS checkout, payments, refunds, quotations, memberships, coupons, and inventory-linked billing."
+keywords:
+  - "billing workflow"
+  - "POS checkout"
+  - "invoice payments"
 ---
+
 
 # Billing Workflow
 

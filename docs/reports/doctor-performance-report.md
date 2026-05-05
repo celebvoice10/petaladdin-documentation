@@ -1,6 +1,13 @@
 ---
-title: Staff Performance
+sidebar_label: "Staff Performance"
+title: "Staff Performance Report Guide for Clinics"
+description: "Learn how clinic administrators review staff performance in Petaladdin, including doctor activity, workload, productivity, and operational trends."
+keywords:
+  - "staff performance"
+  - "doctor performance"
+  - "clinic reports"
 ---
+
 
 # Staff Performance
 

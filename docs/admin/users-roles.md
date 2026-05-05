@@ -1,6 +1,13 @@
 ---
-title: Users and Roles
+sidebar_label: "Users and Roles"
+title: "Users and Roles Guide for Petaladdin Clinics"
+description: "Learn how Petaladdin users and roles work together so clinic administrators can assign the right access to each staff member."
+keywords:
+  - "users and roles"
+  - "role management"
+  - "clinic access"
 ---
+
 
 # Users and Roles
 

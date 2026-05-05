@@ -1,6 +1,13 @@
 ---
-title: Clinical Report
+sidebar_label: "Clinical Report"
+title: "Clinical Report Guide for Petaladdin Clinics"
+description: "Learn how clinic admins use the clinical report in Petaladdin to review consultations, treatment activity, preventive care, and doctor work."
+keywords:
+  - "clinical report"
+  - "consultation reporting"
+  - "doctor activity"
 ---
+
 
 # Clinical Report
 

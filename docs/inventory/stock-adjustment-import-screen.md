@@ -1,6 +1,13 @@
 ---
-title: Stock Adjustment Import Screen
+sidebar_label: "Stock Adjustment Import Screen"
+title: "Stock Adjustment Import Screen Guide"
+description: "Learn how inventory teams use the stock adjustment import screen in Petaladdin to upload adjustment files and validate stock changes."
+keywords:
+  - "stock adjustment import"
+  - "inventory upload"
+  - "stock changes"
 ---
+
 
 # Stock Adjustment Import Screen
 

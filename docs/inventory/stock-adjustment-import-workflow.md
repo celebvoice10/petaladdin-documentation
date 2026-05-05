@@ -1,6 +1,13 @@
 ---
-title: Stock Adjustment Import Workflow
+sidebar_label: "Stock Adjustment Import Workflow"
+title: "Stock Adjustment Import Workflow Guide"
+description: "Learn how inventory teams import stock adjustments into Petaladdin, prepare upload files, validate rows, and correct stock quantities."
+keywords:
+  - "stock adjustment workflow"
+  - "bulk stock adjustment"
+  - "inventory import"
 ---
+
 
 # Stock Adjustment Import Workflow
 

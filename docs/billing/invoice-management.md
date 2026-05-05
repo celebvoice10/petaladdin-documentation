@@ -1,6 +1,13 @@
 ---
-title: Billing
+sidebar_label: "Billing"
+title: "Billing Management Guide for Petaladdin Clinics"
+description: "Learn how clinic teams manage billing in Petaladdin, including invoices, payments, refunds, quotations, coupons, and memberships."
+keywords:
+  - "billing management"
+  - "clinic billing"
+  - "Petaladdin invoices"
 ---
+
 
 # Billing
 

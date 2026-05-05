@@ -1,6 +1,13 @@
 ---
-title: Appointments List Screen
+sidebar_label: "Appointments List Screen"
+title: "Appointments List Screen Guide for Reception"
+description: "Learn how reception teams use the Petaladdin appointments list to search bookings, review schedules, and manage daily visit flow."
+keywords:
+  - "appointments list"
+  - "reception workflow"
+  - "clinic schedule"
 ---
+
 
 # Appointments List Screen
 

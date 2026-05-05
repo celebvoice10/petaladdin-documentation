@@ -1,6 +1,13 @@
 ---
-title: Edit Appointment Screen
+sidebar_label: "Edit Appointment Screen"
+title: "Edit Appointment Screen Guide for Petaladdin"
+description: "Learn how to update appointment details in Petaladdin, adjust visit timing, correct patient information, and save schedule changes."
+keywords:
+  - "edit appointment"
+  - "reschedule visit"
+  - "appointment update"
 ---
+
 
 # Edit Appointment Screen
 

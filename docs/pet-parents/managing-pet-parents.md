@@ -1,6 +1,13 @@
 ---
-title: Pet Parents
+sidebar_label: "Pet Parents"
+title: "Pet Parent Management Guide for Petaladdin"
+description: "Learn how front desk teams manage pet parents in Petaladdin, including client records, contact details, linked pets, and visit context."
+keywords:
+  - "pet parents"
+  - "client management"
+  - "front desk records"
 ---
+
 
 # Pet Parents
 

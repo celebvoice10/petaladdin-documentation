@@ -1,6 +1,13 @@
 ---
-title: Consultations and Treatment Notes
+sidebar_label: "Consultations and Treatment Notes"
+title: "Consultations and Treatment Notes in Petaladdin"
+description: "Learn how doctors record consultations and treatment notes in Petaladdin to document patient history, diagnosis, care, and follow-up."
+keywords:
+  - "consultations"
+  - "treatment notes"
+  - "clinical records"
 ---
+
 
 # Consultations and Treatment Notes
 

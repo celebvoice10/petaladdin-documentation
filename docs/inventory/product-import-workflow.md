@@ -1,6 +1,13 @@
 ---
-title: Product Import Workflow
+sidebar_label: "Product Import Workflow"
+title: "Product Import Workflow Guide for Petaladdin"
+description: "Learn how inventory teams import products into Petaladdin, prepare files, validate item data, and update the product catalog efficiently."
+keywords:
+  - "product import"
+  - "bulk import"
+  - "inventory upload"
 ---
+
 
 # Product Import Workflow
 

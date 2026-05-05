@@ -1,6 +1,13 @@
 ---
-title: Create Invoice Screen
+sidebar_label: "Create Invoice Screen"
+title: "Create Invoice Screen Guide for Petaladdin"
+description: "Learn how billing staff create invoices in Petaladdin, add services or products, review totals, and prepare charges for payment."
+keywords:
+  - "create invoice"
+  - "billing screen"
+  - "invoice workflow"
 ---
+
 
 # Create Invoice Screen
 

@@ -1,6 +1,13 @@
 ---
-title: Edit Pet Screen
+sidebar_label: "Edit Pet Screen"
+title: "Edit Pet Screen Guide for Petaladdin"
+description: "Learn how clinic teams update pet records in Petaladdin, correct patient details, owner links, and profile information."
+keywords:
+  - "edit pet"
+  - "pet details"
+  - "patient record"
 ---
+
 
 # Edit Pet Screen
 

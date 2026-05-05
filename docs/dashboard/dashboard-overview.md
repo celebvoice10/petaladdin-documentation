@@ -1,6 +1,13 @@
 ---
-title: Dashboard Overview
+sidebar_label: "Dashboard Overview"
+title: "Dashboard Guide for Petaladdin Clinic Teams"
+description: "Learn how clinic teams read the Petaladdin dashboard to monitor appointments, billing, patients, preventive care, and daily operations."
+keywords:
+  - "dashboard"
+  - "clinic overview"
+  - "daily operations"
 ---
+
 
 # Dashboard Overview
 

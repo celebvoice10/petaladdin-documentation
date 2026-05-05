@@ -24,14 +24,6 @@ const config: Config = {
     {
       tagName: 'meta',
       attributes: {
-        name: 'keywords',
-        content:
-          'Petaladdin documentation, veterinary practice management software, clinic management software, hospital management software, veterinary clinic help center, appointment scheduling, pet patient records, veterinary billing, clinic inventory',
-      },
-    },
-    {
-      tagName: 'meta',
-      attributes: {
         name: 'robots',
         content: 'index, follow',
       },

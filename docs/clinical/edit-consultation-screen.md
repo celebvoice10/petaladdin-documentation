@@ -1,6 +1,13 @@
 ---
-title: Edit Consultation Screen
+sidebar_label: "Edit Consultation Screen"
+title: "Edit Consultation Screen Guide for Petaladdin"
+description: "Learn how doctors update consultation records in Petaladdin, correct clinical notes, revise treatment details, and keep history accurate."
+keywords:
+  - "edit consultation"
+  - "clinical record update"
+  - "treatment notes"
 ---
+
 
 # Edit Consultation Screen
 

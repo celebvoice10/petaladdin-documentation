@@ -1,6 +1,13 @@
 ---
-title: Subscription
+sidebar_label: "Subscription"
+title: "Subscription Management Guide for Petaladdin"
+description: "Learn how clinic administrators review Petaladdin subscription details, plan status, billing access, and account limits."
+keywords:
+  - "subscription management"
+  - "clinic subscription"
+  - "account plan"
 ---
+
 
 # Subscription
 

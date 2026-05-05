@@ -1,6 +1,13 @@
 ---
-title: Edit Pet Parent Screen
+sidebar_label: "Edit Pet Parent Screen"
+title: "Edit Pet Parent Screen Guide for Petaladdin"
+description: "Learn how reception teams update pet parent records in Petaladdin, correct contact details, and keep client information current."
+keywords:
+  - "edit pet parent"
+  - "client details"
+  - "pet parent record"
 ---
+
 
 # Edit Pet Parent Screen
 

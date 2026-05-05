@@ -1,6 +1,13 @@
 ---
-title: Edit Product Screen
+sidebar_label: "Edit Product Screen"
+title: "Edit Product Screen Guide for Petaladdin"
+description: "Learn how inventory teams update product records in Petaladdin, correct item details, pricing, stock settings, and billing information."
+keywords:
+  - "edit product"
+  - "product update"
+  - "inventory records"
 ---
+
 
 # Edit Product Screen
 

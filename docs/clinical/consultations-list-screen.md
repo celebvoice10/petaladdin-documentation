@@ -1,6 +1,13 @@
 ---
-title: Consultations List Screen
+sidebar_label: "Consultations List Screen"
+title: "Consultations List Screen Guide for Clinics"
+description: "Learn how clinical teams use the Petaladdin consultations list to find visits, review status, and open patient consultation records."
+keywords:
+  - "consultations list"
+  - "clinical workflow"
+  - "patient consultations"
 ---
+
 
 # Consultations List Screen
 

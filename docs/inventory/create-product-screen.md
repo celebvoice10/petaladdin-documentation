@@ -1,6 +1,13 @@
 ---
-title: Create Product Screen
+sidebar_label: "Create Product Screen"
+title: "Create Product Screen Guide for Petaladdin"
+description: "Learn how inventory teams create products in Petaladdin, enter item details, configure stock information, and prepare items for billing."
+keywords:
+  - "create product"
+  - "inventory item"
+  - "product setup"
 ---
+
 
 # Create Product Screen
 

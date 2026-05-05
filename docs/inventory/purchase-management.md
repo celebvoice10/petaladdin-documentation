@@ -1,6 +1,13 @@
 ---
-title: Purchases
+sidebar_label: "Purchases"
+title: "Purchase Management Guide for Petaladdin"
+description: "Learn how inventory teams manage purchases in Petaladdin from supplier orders and item entry to receiving, status updates, and records."
+keywords:
+  - "purchase management"
+  - "supplier orders"
+  - "inventory purchases"
 ---
+
 
 # Purchases
 

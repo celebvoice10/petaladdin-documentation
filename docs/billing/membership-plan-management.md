@@ -1,6 +1,13 @@
 ---
-title: Memberships
+sidebar_label: "Memberships"
+title: "Membership Plan Management Guide for Clinics"
+description: "Learn how billing teams manage Petaladdin membership plans, renewals, plan benefits, and member billing workflows for clinic clients."
+keywords:
+  - "membership plans"
+  - "clinic memberships"
+  - "renewals"
 ---
+
 
 # Memberships
 

@@ -1,6 +1,13 @@
 ---
-title: Create Appointment Screen
+sidebar_label: "Create Appointment Screen"
+title: "Create Appointment Screen Guide for Petaladdin"
+description: "Learn how front desk staff create appointments in Petaladdin, choose pet and parent details, set visit time, and save bookings."
+keywords:
+  - "create appointment"
+  - "appointment booking"
+  - "front desk"
 ---
+
 
 # Create Appointment Screen
 

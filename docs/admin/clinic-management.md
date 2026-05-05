@@ -1,6 +1,13 @@
 ---
-title: Clinics
+sidebar_label: "Clinics"
+title: "Clinic Management Guide for Petaladdin Admins"
+description: "Learn how clinic administrators manage clinic records, locations, contact details, and operational information in Petaladdin."
+keywords:
+  - "clinic management"
+  - "clinic admin"
+  - "practice settings"
 ---
+
 
 # Clinics
 

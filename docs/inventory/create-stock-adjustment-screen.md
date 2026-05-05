@@ -1,6 +1,13 @@
 ---
-title: Create Stock Adjustment Screen
+sidebar_label: "Create Stock Adjustment Screen"
+title: "Create Stock Adjustment Screen Guide for Clinics"
+description: "Learn how inventory teams create stock adjustments in Petaladdin to correct quantities, document reasons, and keep stock accurate."
+keywords:
+  - "create stock adjustment"
+  - "stock correction"
+  - "inventory adjustment"
 ---
+
 
 # Create Stock Adjustment Screen
 

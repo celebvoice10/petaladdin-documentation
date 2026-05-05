@@ -1,6 +1,13 @@
 ---
-title: Doctor Profiles
+sidebar_label: "Doctor Profiles"
+title: "Doctor Profiles Guide for Petaladdin Clinics"
+description: "Learn how clinic teams manage doctor profiles in Petaladdin for consultations, scheduling, reporting, and clinical accountability."
+keywords:
+  - "doctor profiles"
+  - "clinic doctors"
+  - "clinical staff"
 ---
+
 
 # Doctor Profiles
 

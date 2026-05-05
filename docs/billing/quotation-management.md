@@ -1,6 +1,13 @@
 ---
-title: Quotations
+sidebar_label: "Quotations"
+title: "Quotation Management Guide for Petaladdin"
+description: "Learn how clinic teams create, review, print, and manage quotations in Petaladdin before converting estimates into billing actions."
+keywords:
+  - "quotation management"
+  - "clinic estimates"
+  - "billing quotations"
 ---
+
 
 # Quotations
 

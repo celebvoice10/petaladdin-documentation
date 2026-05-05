@@ -1,6 +1,13 @@
 ---
-title: Categories
+sidebar_label: "Categories"
+title: "Product Category Management Guide for Clinics"
+description: "Learn how inventory teams organize products with categories in Petaladdin to keep stock, reporting, and billing workflows easier to manage."
+keywords:
+  - "product categories"
+  - "inventory categories"
+  - "stock organization"
 ---
+
 
 # Categories
 

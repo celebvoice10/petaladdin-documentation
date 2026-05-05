@@ -1,6 +1,13 @@
 ---
-title: My Account
+sidebar_label: "My Account"
+title: "My Account Guide for Petaladdin Users"
+description: "Learn how staff members review and update their Petaladdin account details, profile information, and password-related settings."
+keywords:
+  - "my account"
+  - "staff profile"
+  - "user settings"
 ---
+
 
 # My Account
 

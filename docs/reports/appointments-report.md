@@ -1,6 +1,13 @@
 ---
-title: Appointments Report
+sidebar_label: "Appointments Report"
+title: "Appointments Report Guide for Petaladdin"
+description: "Learn how clinic admins use the appointments report in Petaladdin to review booking activity, visit status, scheduling patterns, and workload."
+keywords:
+  - "appointments report"
+  - "schedule reporting"
+  - "clinic workload"
 ---
+
 
 # Appointments Report
 

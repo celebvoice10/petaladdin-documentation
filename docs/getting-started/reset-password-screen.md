@@ -1,6 +1,13 @@
 ---
-title: Reset Password Screen
+sidebar_label: "Reset Password Screen"
+title: "Reset Password Screen Guide for Petaladdin"
+description: "Learn how users reset a Petaladdin password, choose a new password safely, and regain access to their clinic account."
+keywords:
+  - "reset password"
+  - "password reset"
+  - "account access"
 ---
+
 
 # Reset Password Screen
 

@@ -1,6 +1,13 @@
 ---
-title: Accessing Petaladdin
+sidebar_label: "Accessing Petaladdin"
+title: "Accessing Petaladdin Guide for Clinic Users"
+description: "Learn how clinic users access Petaladdin, sign in safely, choose the right clinic context, and prepare for daily system use."
+keywords:
+  - "accessing Petaladdin"
+  - "sign in"
+  - "clinic login"
 ---
+
 
 # Accessing Petaladdin
 

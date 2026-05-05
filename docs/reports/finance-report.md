@@ -1,6 +1,13 @@
 ---
-title: Billing Report
+sidebar_label: "Billing Report"
+title: "Billing Report Guide for Petaladdin Clinics"
+description: "Learn how clinic administrators use the billing report in Petaladdin to review invoice activity, payments, balances, and financial trends."
+keywords:
+  - "billing report"
+  - "finance report"
+  - "invoice reporting"
 ---
+
 
 # Billing Report
 

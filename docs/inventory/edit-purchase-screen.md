@@ -1,6 +1,13 @@
 ---
-title: Edit Purchase Screen
+sidebar_label: "Edit Purchase Screen"
+title: "Edit Purchase Screen Guide for Petaladdin"
+description: "Learn how inventory teams update purchase records in Petaladdin, correct supplier details, item quantities, and receiving information."
+keywords:
+  - "edit purchase"
+  - "purchase update"
+  - "inventory receiving"
 ---
+
 
 # Edit Purchase Screen
 

@@ -1,6 +1,13 @@
 ---
-title: Access Audit
+sidebar_label: "Access Audit"
+title: "Access Audit Guide for Petaladdin Clinics"
+description: "Learn how clinic admins review access audit records in Petaladdin to monitor staff activity, account changes, and operational security."
+keywords:
+  - "access audit"
+  - "staff activity"
+  - "clinic security"
 ---
+
 
 # Access Audit
 

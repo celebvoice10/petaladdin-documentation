@@ -1,6 +1,13 @@
 ---
-title: Communication
+sidebar_label: "Communication"
+title: "Communication Logs Guide for Clinic Messages"
+description: "Learn how clinic teams use Petaladdin communication logs to review reminders, messages, delivery history, and follow-up activity."
+keywords:
+  - "communication logs"
+  - "clinic messages"
+  - "appointment reminders"
 ---
+
 
 # Communication
 

@@ -1,6 +1,13 @@
 ---
-title: Edit Invoice Screen
+sidebar_label: "Edit Invoice Screen"
+title: "Edit Invoice Screen Guide for Petaladdin"
+description: "Learn how to update invoice details in Petaladdin, correct line items, review totals, and keep billing records accurate."
+keywords:
+  - "edit invoice"
+  - "invoice correction"
+  - "billing records"
 ---
+
 
 # Edit Invoice Screen
 

@@ -1,6 +1,13 @@
 ---
-title: Inventory
+sidebar_label: "Inventory"
+title: "Product Catalog Management Guide for Petaladdin"
+description: "Learn how inventory teams manage the Petaladdin product catalog for medicines, services, pricing, stock tracking, and billing use."
+keywords:
+  - "product catalog"
+  - "inventory catalog"
+  - "product management"
 ---
+
 
 # Inventory
 
