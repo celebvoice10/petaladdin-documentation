@@ -101,9 +101,10 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'Petaladdin Docs',
+      title: 'Docs',
+      style: 'dark',
       logo: {
-        alt: 'Petaladdin',
+        alt: 'PetAladdin',
         src: 'img/logo.svg',
       },
       items: [
